@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Genetics Test</title>
+<style>
+body{font-family:Arial;background:#667eea;padding:20px;margin:0}
+.container{max-width:700px;margin:0 auto}
+h1{color:#fff;text-align:center}
+.q{background:#fff;border-radius:10px;padding:15px;margin-bottom:15px}
+.opt{padding:8px;margin:5px 0;border-radius:5px;cursor:pointer}
+.opt:hover{background:#eef}
+.opt.sel{background:#dde}
+.sol-btn{background:#ffc107;border:none;padding:8px 16px;border-radius:5px;margin-top:10px;font-weight:bold}
+.sol{display:none;background:#fff8e1;padding:12px;margin-top:10px;border-left:4px solid #ffc107;border-radius:5px;font-size:14px}
+.sol.show{display:block}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>🧬 Genetics AI Test</h1>
+<div id="quiz"></div>
+</div>
+<script>
+const questions = [
+{q:"Genetics deals with:",options:["Genes","Heredity","Variations","Heredity and Variations"],answer:3},
+{q:"Allele is the:",options:["Alternative form of gene pair","Total number of genes","Total chromosomes","Genes on a chromosome"],answer:0},
+{q:"A gene said to be dominant if:",options:["Only in homozygous","Only in heterozygous","Both homozygous and heterozygous","Never expressed"],answer:2},
+{q:"Mendel's law of segregation is based on separation of alleles during:",options:["Gamete formation","Seed formation","Pollination","Embryo development"],answer:0},
+{q:"Haemophilia is more common in males because it is:",options:["Y-linked","X-linked recessive","X-linked dominant","Autosomal"],answer:1}
+];
+const quiz = document.getElementById('quiz');
+questions.forEach((q,i)=>{
+  const d = document.createElement('div');
+  d.className='q';
+  let html = '<b>Q'+(i+1)+'. '+q.q+'</b><br>';
+  q.options.forEach((o,j)=>{
+    html += '<div class="opt" onclick="sel('+i+','+j+',this)">'+
+      String.fromCharCode(65+j)+') '+o+'</div>';
+  });
+  html += '<button class="sol-btn" onclick="showSol('+i+')">💡 Show Solution</button>';
+  html += '<div class="sol" id="sol-'+i+'"></div>';
+  d.innerHTML = html;
+  quiz.appendChild(d);
+});
+function sel(qi,oi,el){
+  const parent = el.parentElement;
+  parent.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));
+  el.classList.add('sel');
+}
+async function showSol(i){
+  const box = document.getElementById('sol-'+i);
+  if(box.classList.contains('show')){box.classList.remove('show');return;}
+  box.classList.add('show');
+  box.innerHTML = '🧠 Generating...';
+  try{
+    const r = await fetch('http://localhost:3000/api/solve',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({question:questions[i].q,options:questions[i].options})
+    });
+    const d = await r.json();
+    box.innerHTML = '🤖 '+d.solution;
+  }catch(e){
+    box.innerHTML = '❌ Server se connect nahi hua. Termux me server chalao.';
+  }
+}
+</script>
+</body>
+</html>

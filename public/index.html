@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Genetics Poll</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,sans-serif;background:linear-gradient(135deg,#667eea,#764ba2);min-height:100vh;padding:15px}
+.container{max-width:900px;margin:0 auto}
+h1{color:#fff;text-align:center;margin-bottom:15px;font-size:1.4rem}
+.stats{background:rgba(255,255,255,0.95);border-radius:12px;padding:12px;margin-bottom:12px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center;font-size:0.85rem;font-weight:600;color:#4a3f8a}
+.controls{display:flex;gap:8px;flex-wrap:wrap;justify-content:center;margin-bottom:12px}
+.btn{background:#fff;color:#4a3f8a;border:none;padding:8px 14px;border-radius:8px;font-weight:600;font-size:0.85rem;cursor:pointer;box-shadow:0 3px 8px rgba(0,0,0,0.15)}
+.btn.green{background:#4caf50;color:#fff}
+.btn.red{background:#f44336;color:#fff}
+.btn.blue{background:#2196f3;color:#fff}
+.btn.orange{background:#ff9800;color:#fff}
+.search{width:100%;padding:10px;border:2px solid #e0e0f0;border-radius:8px;font-size:0.9rem;margin-bottom:12px;outline:none}
+.result{background:#fff;border-radius:12px;padding:20px;text-align:center;margin-bottom:12px;display:none}
+.result.show{display:block}
+.big{font-size:2rem;font-weight:800;color:#667eea}
+.section{background:rgba(255,255,255,0.95);border-radius:12px;padding:15px;margin-bottom:15px}
+.section-title{font-size:1rem;color:#fff;background:linear-gradient(90deg,#667eea,#764ba2);padding:10px;border-radius:8px;margin-bottom:12px;cursor:pointer;font-weight:bold}
+.q{background:#fafaff;border:2px solid #e0e0f0;border-radius:10px;padding:12px;margin-bottom:12px}
+.q.correct{border-color:#4caf50;background:#f1f8f1}
+.q.wrong{border-color:#f44336;background:#fdf1f1}
+.q.unattempted{border-color:#ff9800;background:#fff8e1}
+.q-text{font-weight:600;margin-bottom:10px;line-height:1.4;font-size:0.95rem}
+.q-num{color:#764ba2;margin-right:5px}
+.hindi-box{display:none;background:#f3e5f5;border-left:4px solid #9c27b0;padding:12px;margin-top:10px;border-radius:6px;font-size:0.9rem;line-height:1.5}
+.hindi-box.show{display:block}
+.hindi-box .hindi-q{font-weight:bold;color:#4a148c;margin-bottom:8px}
+.hindi-box .hindi-opt{padding:4px 0;color:#333}
+.hindi-box .tag{background:#9c27b0}
+.opt{padding:8px 10px;margin:4px 0;border-radius:6px;cursor:pointer;font-size:0.9rem;display:flex;gap:8px;align-items:flex-start;border:2px solid transparent}
+.opt:hover{background:#eef}
+.opt.sel{background:#dde4ff;border-color:#667eea}
+.opt.correct-answer{background:#c8e6c9;border-color:#4caf50;font-weight:bold}
+.opt.wrong-answer{background:#ffcdd2;border-color:#f44336}
+.opt input{margin-top:3px;accent-color:#667eea}
+.opt .badge{margin-left:auto;font-size:0.75rem;padding:2px 6px;border-radius:4px;font-weight:bold;color:#fff;display:none}
+.opt.correct-answer .badge{background:#4caf50;display:inline-block}
+.opt.wrong-answer .badge{background:#f44336;display:inline-block}
+.sol-btn{background:#ffc107;color:#333;border:none;padding:8px 14px;border-radius:6px;margin-top:8px;font-weight:bold;font-size:0.85rem;cursor:pointer;margin-right:6px}
+.ak-btn{background:#2196f3;color:#fff;border:none;padding:8px 14px;border-radius:6px;margin-top:8px;font-weight:bold;font-size:0.85rem;cursor:pointer;margin-right:6px}
+.hi-btn{background:#9c27b0;color:#fff;border:none;padding:8px 14px;border-radius:6px;margin-top:8px;font-weight:bold;font-size:0.85rem;cursor:pointer}
+.sol{display:none;background:#fff8e1;border-left:4px solid #ffc107;padding:12px;margin-top:10px;border-radius:6px;font-size:0.88rem;line-height:1.5;white-space:pre-wrap}
+.sol.show{display:block}
+.answer-key{display:none;background:#e3f2fd;border-left:4px solid #2196f3;padding:10px;margin-top:8px;border-radius:6px;font-size:0.88rem;font-weight:bold;color:#0d47a1}
+.answer-key.show{display:block}
+.tag{display:inline-block;background:#667eea;color:#fff;padding:2px 8px;border-radius:4px;font-size:0.72rem;font-weight:bold;margin-bottom:6px}
+@media(max-width:600px){h1{font-size:1.2rem}.big{font-size:1.5rem}}
+</style>
+</head>
+<body>
+<div class="container">
+<h1>🧬 Genetics Poll - 382 Questions</h1>
+<div class="stats">
+<span>Total: <span id="total">0</span></span>
+<span>Attempted: <span id="attempted">0</span></span>
+<span>Correct: <span id="correct">0</span></span>
+<span>Wrong: <span id="wrong">0</span></span>
+<span>Score: <span id="score">0%</span></span>
+</div>
+<div class="controls">
+<button class="btn" onclick="expandAll()">Expand All</button>
+<button class="btn" onclick="collapseAll()">Collapse</button>
+<button class="btn orange" onclick="toggleAnswerKeys()">🔑 Show Answer Keys</button>
+<button class="btn green" onclick="submitPoll()">✅ Submit & Check</button>
+<button class="btn red" onclick="resetPoll()">🔄 Reset</button>
+</div>
+<div class="result" id="result">
+<h2>🎯 Result</h2>
+<div class="big" id="finalScore">0%</div>
+<p id="finalText" style="margin-top:8px;color:#666"></p>
+</div>
+<input type="text" class="search" id="search" placeholder="🔍 Search questions..." oninput="searchQ()">
+<div id="quiz">Loading...</div>
+</div>
+<script>
+let allQ=[];
+const answers={};
+let keysVisible=false;
+const hindiCache={};
+
+async function init(){
+  try{
+    const r = await fetch('questions.json');
+    allQ = await r.json();
+    renderQuiz();
+  }catch(e){
+    document.getElementById('quiz').innerHTML = '<div style="background:#fff;padding:20px;border-radius:12px;text-align:center">❌ questions.json load nahi hua. Server check karo.</div>';
+  }
+}
+
+function renderQuiz(){
+  const c = document.getElementById('quiz');
+  c.innerHTML = '';
+  const sections = {};
+  allQ.forEach((q,i)=>{
+    const s = q.s || 'Questions';
+    if(!sections[s]) sections[s]=[];
+    sections[s].push({...q, idx:i});
+  });
+  let n=0;
+  Object.keys(sections).forEach((sec,si)=>{
+    const secDiv = document.createElement('div');
+    secDiv.className='section';
+    const t = document.createElement('div');
+    t.className='section-title';
+    t.innerHTML = `${sec} (${sections[sec].length} Qs) ▼`;
+    t.onclick = ()=>{
+      const body = secDiv.querySelector('.sec-body');
+      body.style.display = body.style.display === 'none' ? '' : 'none';
+    };
+    secDiv.appendChild(t);
+    const body = document.createElement('div');
+    body.className='sec-body';
+    sections[sec].forEach((q)=>{
+      n++;
+      const qd = document.createElement('div');
+      qd.className='q';
+      qd.id='q-'+q.idx;
+      qd.innerHTML = `<div class="q-text"><span class="q-num">Q${n}.</span>${q.q}</div>`;
+      const opts = document.createElement('div');
+      const letters=['A','B','C','D','E'];
+      q.o.forEach((o,j)=>{
+        const od = document.createElement('div');
+        od.className='opt';
+        od.dataset.qid=q.idx;
+        od.dataset.oidx=j;
+        od.onclick=()=>select(q.idx,j,od);
+        od.innerHTML=`<input type="radio" name="q${q.idx}" value="${j}"><label>${letters[j]}) ${o}</label><span class="badge"></span>`;
+        opts.appendChild(od);
+      });
+      qd.appendChild(opts);
+      const btnRow = document.createElement('div');
+      btnRow.innerHTML = `<button class="sol-btn" onclick="showSol(${q.idx}, this)">💡 Solution</button><button class="ak-btn" onclick="toggleKey(${q.idx})">🔑 Answer</button><button class="hi-btn" onclick="translateQ(${q.idx}, this)">🌐 Hindi</button>`;
+      qd.appendChild(btnRow);
+      const hb = document.createElement('div');
+      hb.className='hindi-box';
+      hb.id='hi-'+q.idx;
+      qd.appendChild(hb);
+      const ak = document.createElement('div');
+      ak.className='answer-key';
+      ak.id='ak-'+q.idx;
+      ak.textContent = `✅ Correct Answer: ${letters[q.a]}) ${q.o[q.a]}`;
+      qd.appendChild(ak);
+      const sol = document.createElement('div');
+      sol.className='sol';
+      sol.id='sol-'+q.idx;
+      qd.appendChild(sol);
+      body.appendChild(qd);
+    });
+    secDiv.appendChild(body);
+    c.appendChild(secDiv);
+  });
+  document.getElementById('total').textContent = allQ.length;
+  updateStats();
+}
+
+function select(qi,oi,el){
+  if(document.getElementById('q-'+qi).classList.contains('correct') || document.getElementById('q-'+qi).classList.contains('wrong')) return;
+  answers[qi]=oi;
+  const qd=document.getElementById('q-'+qi);
+  qd.querySelectorAll('.opt').forEach(o=>o.classList.remove('sel'));
+  el.classList.add('sel');
+  el.querySelector('input').checked = true;
+  updateStats();
+}
+
+function toggleKey(qi){
+  document.getElementById('ak-'+qi).classList.toggle('show');
+}
+
+function toggleAnswerKeys(){
+  keysVisible=!keysVisible;
+  document.querySelectorAll('.answer-key').forEach(k=>{
+    if(keysVisible) k.classList.add('show');
+    else k.classList.remove('show');
+  });
+}
+
+async function showSol(qi, btn){
+  const box = document.getElementById('sol-'+qi);
+  if(box.classList.contains('show') && !box.dataset.loading){
+    box.classList.remove('show');
+    btn.textContent='💡 Solution';
+    return;
+  }
+  box.classList.add('show');
+  box.dataset.loading='1';
+  btn.textContent='🧠 Generating...';
+  box.innerHTML='<span class="tag">EXPLANATION</span>\nLoading from AI...';
+  try{
+    const r = await fetch('/api/solve',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({question:allQ[qi].q, options:allQ[qi].o})
+    });
+    const d = await r.json();
+    box.innerHTML='<span class="tag">AI EXPLANATION</span>\n'+d.solution;
+    btn.textContent='🙈 Hide';
+  }catch(e){
+    box.innerHTML='<span class="tag">ERROR</span>\nServer se connect nahi hua.';
+    btn.textContent='💡 Retry';
+  }
+  box.dataset.loading='';
+}
+
+async function translateQ(qi, btn){
+  const box = document.getElementById('hi-'+qi);
+  if(box.classList.contains('show') && !box.dataset.loading){
+    box.classList.remove('show');
+    btn.textContent='🌐 Hindi';
+    return;
+  }
+  box.classList.add('show');
+  if(hindiCache[qi]){
+    renderHindi(box, hindiCache[qi]);
+    btn.textContent='🙈 Hide Hindi';
+    return;
+  }
+  box.dataset.loading='1';
+  btn.textContent='🔄 Translating...';
+  box.innerHTML='<span class="tag">HINDI TRANSLATION</span>\n🔄 AI se translate ho raha hai...';
+  try{
+    const r = await fetch('/api/translate',{
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body:JSON.stringify({question:allQ[qi].q, options:allQ[qi].o})
+    });
+    const d = await r.json();
+    hindiCache[qi] = d.solution;
+    renderHindi(box, d.solution);
+    btn.textContent='🙈 Hide Hindi';
+  }catch(e){
+    box.innerHTML='<span class="tag">ERROR</span>\nTranslation fail. Server check karo.';
+    btn.textContent='🌐 Retry';
+  }
+  box.dataset.loading='';
+}
+
+function renderHindi(box, text){
+  const lines = text.split('\n').filter(l=>l.trim());
+  let q='', opts=[];
+  lines.forEach(l=>{
+    const u = l.trim();
+    if(u.match(/^QUESTION\s*[:\-]/i)) q = u.replace(/^QUESTION\s*[:\-]\s*/i, '');
+    else if(u.match(/^OPTION_?A\s*[:\-]/i)) opts[0] = u.replace(/^OPTION_?A\s*[:\-]\s*/i, '');
+    else if(u.match(/^OPTION_?B\s*[:\-]/i)) opts[1] = u.replace(/^OPTION_?B\s*[:\-]\s*/i, '');
+    else if(u.match(/^OPTION_?C\s*[:\-]/i)) opts[2] = u.replace(/^OPTION_?C\s*[:\-]\s*/i, '');
+    else if(u.match(/^OPTION_?D\s*[:\-]/i)) opts[3] = u.replace(/^OPTION_?D\s*[:\-]\s*/i, '');
+  });
+  const letters=['A','B','C','D'];
+  if(!q){
+    box.innerHTML='<span class="tag">हिंदी</span>\n'+text;
+    return;
+  }
+  let html = '<span class="tag">हिंदी अनुवाद</span>';
+  html += '<div class="hindi-q">प्रश्न: '+q+'</div>';
+  opts.forEach((o,i)=>{
+    if(o) html += '<div class="hindi-opt"><b>'+letters[i]+')</b> '+o+'</div>';
+  });
+  box.innerHTML = html;
+}
+
+function updateStats(){
+  const att = Object.keys(answers).length;
+  let cor=0, wr=0;
+  Object.keys(answers).forEach(k=>{
+    if(answers[k]===allQ[k].a) cor++;
+    else wr++;
+  });
+  document.getElementById('attempted').textContent=att;
+  document.getElementById('correct').textContent=cor;
+  document.getElementById('wrong').textContent=wr;
+  document.getElementById('score').textContent = att>0 ? Math.round(cor/allQ.length*100)+'%' : '0%';
+}
+
+function submitPoll(){
+  let cor=0, wr=0, un=0;
+  allQ.forEach((q,i)=>{
+    const qd = document.getElementById('q-'+i);
+    qd.classList.remove('correct','wrong','unattempted');
+    qd.querySelectorAll('.opt').forEach(o=>{
+      o.classList.remove('correct-answer','wrong-answer','sel');
+      const b=o.querySelector('.badge');
+      if(b){b.textContent=''; b.style.display='none';}
+    });
+    if(answers[i]===undefined){
+      un++;
+      qd.classList.add('unattempted');
+    } else if(answers[i]===q.a){
+      cor++;
+      qd.classList.add('correct');
+      const co = qd.querySelector('.opt[data-oidx="'+q.a+'"]');
+      if(co){co.classList.add('correct-answer'); const b=co.querySelector('.badge'); if(b){b.textContent='✓ YOUR ANSWER'; b.style.display='inline-block';}}
+    } else {
+      wr++;
+      qd.classList.add('wrong');
+      const so = qd.querySelector('.opt[data-oidx="'+answers[i]+'"]');
+      if(so){so.classList.add('wrong-answer'); const b=so.querySelector('.badge'); if(b){b.textContent='✗ YOUR ANSWER'; b.style.display='inline-block';}}
+      const co = qd.querySelector('.opt[data-oidx="'+q.a+'"]');
+      if(co){co.classList.add('correct-answer'); const b=co.querySelector('.badge'); if(b){b.textContent='✓ CORRECT'; b.style.display='inline-block';}}
+    }
+    const ak = document.getElementById('ak-'+i);
+    if(ak) ak.classList.add('show');
+  });
+  const pct = Math.round(cor/allQ.length*100);
+  document.getElementById('finalScore').textContent = pct+'%';
+  document.getElementById('finalText').innerHTML = `✅ Correct: <b>${cor}</b> &nbsp;|&nbsp; ❌ Wrong: <b>${wr}</b> &nbsp;|&nbsp; ⏭️ Unattempted: <b>${un}</b> &nbsp;|&nbsp; Total: <b>${allQ.length}</b>`;
+  document.getElementById('result').classList.add('show');
+  document.getElementById('result').scrollIntoView({behavior:'smooth'});
+  updateStats();
+}
+
+function resetPoll(){
+  Object.keys(answers).forEach(k=>delete answers[k]);
+  Object.keys(hindiCache).forEach(k=>delete hindiCache[k]);
+  document.querySelectorAll('.opt').forEach(o=>{
+    o.classList.remove('sel','correct-answer','wrong-answer');
+    const i=o.querySelector('input'); if(i)i.checked=false;
+    const b=o.querySelector('.badge'); if(b){b.textContent=''; b.style.display='none';}
+  });
+  document.querySelectorAll('.sol').forEach(s=>{s.classList.remove('show'); s.dataset.loading='';});
+  document.querySelectorAll('.hindi-box').forEach(h=>h.classList.remove('show'));
+  document.querySelectorAll('.answer-key').forEach(k=>k.classList.remove('show'));
+  document.querySelectorAll('.q').forEach(q=>q.classList.remove('correct','wrong','unattempted'));
+  document.getElementById('result').classList.remove('show');
+  keysVisible=false;
+  updateStats();
+}
+
+function expandAll(){document.querySelectorAll('.sec-body').forEach(b=>b.style.display='');}
+function collapseAll(){document.querySelectorAll('.sec-body').forEach(b=>b.style.display='none');}
+function searchQ(){
+  const t=document.getElementById('search').value.toLowerCase();
+  document.querySelectorAll('.q').forEach(q=>{
+    q.style.display = q.querySelector('.q-text').textContent.toLowerCase().includes(t) ? '' : 'none';
+  });
+}
+init();
+</script>
+</body>
+</html>

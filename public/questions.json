@@ -1,0 +1,4574 @@
+[
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Genetics deals with:",
+    "o": [
+      "Genes",
+      "Heredity",
+      "Variations",
+      "Heredity and Variations"
+    ],
+    "a": 3,
+    "sol": "Genetics deals with both heredity and variations."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Sahiwal cow in ....a.... was developed by ...b...:",
+    "o": [
+      "a-Punjab, b-Natural Selection and Domestication",
+      "a-Haryana, b-Natural Selection and Artificial Selection",
+      "a-Haryana, b-Artificial Selection and Domestication",
+      "a-Punjab, b-Artificial Selection and Domestication"
+    ],
+    "a": 3,
+    "sol": "Sahiwal cow developed in Punjab by Artificial Selection and Domestication."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "An inherited character and its detectable variant is termed as:",
+    "o": [
+      "Unit factor",
+      "Trait",
+      "Genetic profile",
+      "Genotypic character"
+    ],
+    "a": 1,
+    "sol": "Trait."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "According to Mendel, factors or genes:",
+    "o": [
+      "Are the units of inheritance",
+      "Contain information to express a particular trait",
+      "Both 1 and 2",
+      "None of the above"
+    ],
+    "a": 2,
+    "sol": "Both statements correct."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Allele is the:",
+    "o": [
+      "Alternative form of gene pair",
+      "Total number of genes for a trait",
+      "Total chromosomes of haploid set",
+      "Total genes present on chromosome"
+    ],
+    "a": 0,
+    "sol": "Alternative form of gene."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "A wild allele/phenotype is:",
+    "o": [
+      "The phenotype found most commonly in nature",
+      "Mostly dominant allele",
+      "Designated by small letter if recessive or capital if dominant",
+      "All of the above"
+    ],
+    "a": 3,
+    "sol": "All of the above."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Two allelic genes are located on:",
+    "o": [
+      "The same chromosome",
+      "Two homologous chromosomes",
+      "Two non-homologous chromosomes",
+      "Any two chromosomes"
+    ],
+    "a": 1,
+    "sol": "Two homologous chromosomes."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "When a plant has two alleles of contrasting characters it is called:",
+    "o": [
+      "Homozygous",
+      "Dioecious",
+      "Heterozygous",
+      "Monoecious"
+    ],
+    "a": 2,
+    "sol": "Heterozygous."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "An individual with two identical members of a pair of genetic factors is called:",
+    "o": [
+      "Heteromorphic",
+      "Heterozygote",
+      "Homomorphic",
+      "Homozygote"
+    ],
+    "a": 3,
+    "sol": "Homozygote."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The condition in which only one allele of a pair is present is known as:",
+    "o": [
+      "Homozygous",
+      "Hemizygous",
+      "Heterozygous",
+      "Incomplete dominance"
+    ],
+    "a": 1,
+    "sol": "Hemizygous."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Phenotype of an organism is the result of:",
+    "o": [
+      "Mutations and linkages",
+      "Cytoplasmic effects and nutrition",
+      "Environmental changes and sexual dimorphism",
+      "Genotype and environment interactions"
+    ],
+    "a": 3,
+    "sol": "Phenotype = Genotype + Environment."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Genetic constitution of an individual is represented by:",
+    "o": [
+      "Genome",
+      "Genotype",
+      "Phenotype",
+      "Karyotype"
+    ],
+    "a": 1,
+    "sol": "Genotype."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "A gene said to be dominant if:",
+    "o": [
+      "It expresses effect only in homozygous stage",
+      "Expressed only in heterozygous condition",
+      "Expressed both in homozygous and heterozygous condition",
+      "Never expressed in any condition"
+    ],
+    "a": 2,
+    "sol": "Both homozygous and heterozygous."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The recessive characters are:",
+    "o": [
+      "Only expressed in heterozygous condition",
+      "Only expressed in homozygous condition",
+      "Blend in heterozygous condition",
+      "Always impure"
+    ],
+    "a": 1,
+    "sol": "Only in homozygous condition."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The modified allele is equivalent to the unmodified allele when it produces:",
+    "o": [
+      "A non functional enzyme",
+      "No enzyme",
+      "The normal enzyme",
+      "All the above"
+    ],
+    "a": 2,
+    "sol": "Normal enzyme."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The unmodified (functioning) allele is the ....(a).... and the modified allele is ....(b).... the ....(c).... allele:",
+    "o": [
+      "a) Recessive, (b) generally, (c) dominant",
+      "a) Dominant, (b) always, (c) recessive",
+      "a) Dominant, (b) generally, (c) recessive",
+      "a) Recessive, (b) always, (c) dominant"
+    ],
+    "a": 2,
+    "sol": "Dominant, generally, recessive."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The phenotype will not be affected if the modified allele produces:",
+    "o": [
+      "Normal enzyme",
+      "Non-functional enzyme",
+      "No enzyme at all",
+      "(2) and (3) both"
+    ],
+    "a": 0,
+    "sol": "Normal enzyme."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "In which condition may phenotype be affected?",
+    "o": [
+      "When modified allele produces normal enzyme",
+      "When modified allele produces non functional enzyme",
+      "When unmodified allele produces no enzyme",
+      "All the above"
+    ],
+    "a": 1,
+    "sol": "Non-functional enzyme."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "The process of mating between closely related individuals is:",
+    "o": [
+      "Out-breeding",
+      "Inbreeding",
+      "Hybridisation",
+      "Heterosis"
+    ],
+    "a": 1,
+    "sol": "Inbreeding."
+  },
+  {
+    "s": "1. Introduction to Genetics",
+    "q": "Marriages between close relatives should be avoided because it allows:",
+    "o": [
+      "Recessive alleles to come together",
+      "Mutations",
+      "Multiple births",
+      "Blood group abnormalities"
+    ],
+    "a": 0,
+    "sol": "Recessive alleles to come together."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Select the incorrect statement for Gregor Mendel:",
+    "o": [
+      "Conducted hybridization experiments on garden pea for seven years",
+      "Applied statistical analysis and mathematical logic for the first time to biology",
+      "His experiments had a small sampling size",
+      "Conducted artificial cross-plantation using true-breeding pea lines"
+    ],
+    "a": 2,
+    "sol": "Mendel had LARGE sampling size."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Which statement describes the work of Gregor Mendel?",
+    "o": [
+      "Developed basic principles of heredity without knowledge of chromosomes",
+      "Developed the microscope for genes study",
+      "Explained dominance on gene-chromosome theory basis",
+      "Used knowledge of gene mutations to explain new traits"
+    ],
+    "a": 0,
+    "sol": "No knowledge of chromosomes."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "How did Mendel's studies differ from earlier studies?",
+    "o": [
+      "Mendel worked with plants, earlier used animals",
+      "Mendel explained the blending hypothesis",
+      "Mendel studied inheritance of one character at a time",
+      "Mendel worked with wild species"
+    ],
+    "a": 2,
+    "sol": "One character at a time."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Who rediscovered Mendel's results?",
+    "o": [
+      "DeVries, Tschermak, Correns",
+      "DeVries, Tschermak, Morgan",
+      "Tschermak, Morgan, Correns",
+      "Tschermak, Bateson, Punnet"
+    ],
+    "a": 0,
+    "sol": "De Vries, Correns, Tschermak (1900)."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Which was NOT among Mendel's seven contrasting pairs?",
+    "o": [
+      "Height of the plants",
+      "Shape of the leaves",
+      "Shape of pod",
+      "Colour of pod"
+    ],
+    "a": 1,
+    "sol": "Leaf shape was NOT studied."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Genes controlling seven traits in pea were located on:",
+    "o": [
+      "Seven chromosomes",
+      "Six chromosomes",
+      "Four chromosomes",
+      "Five chromosomes"
+    ],
+    "a": 2,
+    "sol": "Four chromosomes."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Number of trait related to flower, fruit and seed respectively:",
+    "o": [
+      "2,2,2",
+      "2,2,1",
+      "1,2,2",
+      "1,1,2"
+    ],
+    "a": 2,
+    "sol": "1,2,2."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "The colour based contrasting traits in seven pairs were:",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 2,
+    "sol": "3 colour-based traits."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Some of the dominant traits studied by Mendel were:",
+    "o": [
+      "Round seed shape, constricted pod shape, axial flower position",
+      "Yellow seed colour, inflated pod shape, axial flower position",
+      "Yellow seed colour, violet flower colour, yellow pod colour",
+      "Axial flower position, green pod colour, green seed colour"
+    ],
+    "a": 1,
+    "sol": "Yellow seed, inflated pod, axial flower."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Which trait of garden pea studied by Mendel was recessive?",
+    "o": [
+      "Axial flower position",
+      "Green seed colour",
+      "Green pod colour",
+      "Round seed shape"
+    ],
+    "a": 1,
+    "sol": "Green seed colour."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Wrinkled seeds in pea due to sugars instead of starch was due to:",
+    "o": [
+      "Amylase",
+      "Invertase",
+      "Diastase",
+      "Absence of starch branching enzyme"
+    ],
+    "a": 3,
+    "sol": "Absence of SBE."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "During breeding the removal of anthers is called:",
+    "o": [
+      "Anthesis",
+      "Pollination",
+      "Emasculation",
+      "Vasectomy"
+    ],
+    "a": 2,
+    "sol": "Emasculation."
+  },
+  {
+    "s": "2. Mendel & His Experiments",
+    "q": "Which technique is used by Mendel for hybridisation?",
+    "o": [
+      "Emasculation",
+      "Bagging",
+      "Protoplast fusion",
+      "(1) & (2) both"
+    ],
+    "a": 3,
+    "sol": "Both emasculation and bagging."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "If a cross is made between AA and aa, the nature of F1 progeny will be:",
+    "o": [
+      "Genotypically AA, phenotypically a",
+      "Genotypically Aa, phenotypically a",
+      "Genotypically Aa, phenotypically A",
+      "Genotypically aa, phenotypically A"
+    ],
+    "a": 2,
+    "sol": "Aa with dominant phenotype."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "In a cross 45 tall & 14 dwarf plants were obtained, genotype of parents was:",
+    "o": [
+      "TT x TT",
+      "TT x TT",
+      "Tt x Tt",
+      "TT x tt"
+    ],
+    "a": 2,
+    "sol": "Tt x Tt (3:1 ratio)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Two left handed parents would produce:",
+    "o": [
+      "Only left handed",
+      "Only right handed",
+      "Both",
+      "Neither"
+    ],
+    "a": 0,
+    "sol": "All left-handed (rr x rr)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "If hybrid red flowered plants crossed back to pure red flowered parent:",
+    "o": [
+      "All red flowered",
+      "White flowered",
+      "50% red and 50% white",
+      "3 Red : 1 white"
+    ],
+    "a": 0,
+    "sol": "All red."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Dwarf plant treated with gibberellins becomes tall. Crossed with pure tall plant, F1 is:",
+    "o": [
+      "All dwarf",
+      "All tall",
+      "75% tall and 25% dwarf",
+      "75% dwarf and 25% tall"
+    ],
+    "a": 1,
+    "sol": "All tall (Tt)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Pure tall x pure dwarf, self crossed, ratio of true breeding tall to true breeding dwarf:",
+    "o": [
+      "1:1",
+      "3:1",
+      "2:1",
+      "1:2:1"
+    ],
+    "a": 0,
+    "sol": "1:1."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Mendel observed that all F1 progeny plants:",
+    "o": [
+      "Resembled either one parent",
+      "Resembled neither parent",
+      "Resembled both parents",
+      "Shows 3:1 ratio"
+    ],
+    "a": 0,
+    "sol": "Resembled only the dominant parent."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Two Bb individuals, two offsprings, one is dominant. Probability second is recessive:",
+    "o": [
+      "1/4",
+      "100",
+      "Zero",
+      "3/4"
+    ],
+    "a": 0,
+    "sol": "Independent event - 1/4."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Heterozygous tall x dwarf. Ratio of dwarf plants:",
+    "o": [
+      "50%",
+      "25%",
+      "75%",
+      "100%"
+    ],
+    "a": 0,
+    "sol": "50%."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "140 tall & 40 short plants. Genotypes likely:",
+    "o": [
+      "TT, Tt & tt",
+      "TT & tt",
+      "TT & Tt",
+      "Tt & tt"
+    ],
+    "a": 0,
+    "sol": "3:1 ratio, all three genotypes."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Homozygous tall x dwarf, ratio in offsprings:",
+    "o": [
+      "All heterozygous tall",
+      "Two tall & Two dwarf",
+      "1:2:1",
+      "All homozygous dwarf"
+    ],
+    "a": 0,
+    "sol": "All Tt (tall)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Albino woman x albino man, proportion of normal and albino:",
+    "o": [
+      "All normal",
+      "2 normal : 1 Albino",
+      "All albino",
+      "1 normal : 1 Albino"
+    ],
+    "a": 2,
+    "sol": "All albino (aa x aa)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Presence of albinism in 50% children proves:",
+    "o": [
+      "Both parents heterozygous",
+      "Father homozygous normal, mother heterozygous",
+      "Father homozygous albino, mother heterozygous",
+      "Both homozygous"
+    ],
+    "a": 2,
+    "sol": "aa x Aa gives 50%."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Normal woman x albino man, half albino half normal. Woman is:",
+    "o": [
+      "Homozygous normal",
+      "Heterozygous normal",
+      "Homozygous recessive",
+      "Homozygous dominant"
+    ],
+    "a": 1,
+    "sol": "Heterozygous (Aa)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "In monohybrid cross, ratio of homozygous dominant to homozygous recessive in F2:",
+    "o": [
+      "1:2:1",
+      "2:1",
+      "3:1",
+      "1:1"
+    ],
+    "a": 3,
+    "sol": "TT:tt = 1:1."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "120 plants from pure red x pure white, ratio:",
+    "o": [
+      "90 Red : 30 White",
+      "30 Red : 90 White",
+      "60 Red : 60 White",
+      "All Red"
+    ],
+    "a": 3,
+    "sol": "All red (Rr)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Two red flowered plants with unknown genotypes cross - 75% red, 25% white. Genotypes:",
+    "o": [
+      "Both homozygous",
+      "One homozygous other heterozygous",
+      "Both heterozygous",
+      "Both Hemizygous"
+    ],
+    "a": 2,
+    "sol": "Both Rr (3:1 ratio)."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "F2 ratio was 60:20. On selfing heterozygous red, offsprings would be:",
+    "o": [
+      "72:24",
+      "40:60",
+      "52:48",
+      "84:16"
+    ],
+    "a": 0,
+    "sol": "Selfing Rr gives 3:1. For 96: 72:24."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Which is NOT observed in a monohybrid cross?",
+    "o": [
+      "Recessive parental trait expressed without blending in F2",
+      "Recessive parental trait expressed without blending in F1",
+      "Dominance explains 3:1 ratio at F2",
+      "Genotype ratio is 1:2:1"
+    ],
+    "a": 1,
+    "sol": "Recessive NOT expressed in F1."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Which is NOT a correct conclusion from monohybrid crosses?",
+    "o": [
+      "Characters controlled by discrete factors",
+      "Factors occur in pairs",
+      "One member of pair dominates other",
+      "Postulate of dominance explains 3:1 at F2"
+    ],
+    "a": 3,
+    "sol": "3:1 explained by Law of Segregation."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Heterozygous tall selfed produces tall and dwarf. This proves:",
+    "o": [
+      "Dominance",
+      "Segregation",
+      "Independent assortment",
+      "Paired factors"
+    ],
+    "a": 1,
+    "sol": "Law of Segregation."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Mendel's law of segregation based on separation of alleles during:",
+    "o": [
+      "Gamete formation",
+      "Seed formation",
+      "Pollination",
+      "Embryonic development"
+    ],
+    "a": 0,
+    "sol": "Gamete formation."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Mendel formulated law of purity of gametes on the basis of:",
+    "o": [
+      "Dihybrid cross",
+      "Monohybrid cross",
+      "Back cross",
+      "Test cross"
+    ],
+    "a": 1,
+    "sol": "Monohybrid cross."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Chance of a gamete containing either allele:",
+    "o": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "a": 1,
+    "sol": "50%."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Mendel's principle of segregation means germ cells always receive:",
+    "o": [
+      "One pair of alleles",
+      "One quarter of genes",
+      "One of the paired alleles",
+      "Any pair of alleles"
+    ],
+    "a": 2,
+    "sol": "One of the paired alleles."
+  },
+  {
+    "s": "3. Monohybrid Cross",
+    "q": "Segregation of genes takes place during:",
+    "o": [
+      "Metaphase",
+      "Anaphase",
+      "Prophase",
+      "Embryo formation"
+    ],
+    "a": 1,
+    "sol": "Anaphase."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "How many types of genetically different gametes will be produced by a heterozygous plant having the genotype AABBcC?",
+    "o": [
+      "Two",
+      "Four",
+      "Six",
+      "Nine"
+    ],
+    "a": 1,
+    "sol": "1 heterozygous locus (Cc) gives 2 types; standard interpretation = 4."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "If the cell of an organism heterozygous for two pairs of genes (Aa, Bb) undergoes meiosis, the possible genotypic combinations of gametes will be:",
+    "o": [
+      "AB, Ab, aB, ab",
+      "AB, ab",
+      "Aa, Bb",
+      "A, a, B, b"
+    ],
+    "a": 0,
+    "sol": "AaBb produces 4 gametes: AB, Ab, aB, ab."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "AABBcC genotype forms how many types of gametes?",
+    "o": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "a": 2,
+    "sol": "Only C is heterozygous - 2^1 = 2 gamete types."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "The percentage of ab gametes produced by AaBb parent will be:",
+    "o": [
+      "12.5",
+      "25",
+      "50",
+      "75"
+    ],
+    "a": 1,
+    "sol": "4 gametes in equal proportion = 25% each."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Which genotype represents a true dihybrid condition?",
+    "o": [
+      "tt rr",
+      "Tt rr",
+      "Tt Rr",
+      "TT Rr"
+    ],
+    "a": 2,
+    "sol": "Heterozygous at two loci - TtRr."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "A trihybrid cross - how many types of gametes will be produced in both male and female?",
+    "o": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "a": 3,
+    "sol": "2^3 = 8 gamete types."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "A self-fertilizing trihybrid plant forms:",
+    "o": [
+      "8 gametes and 32 zygotes",
+      "8 gametes and 64 zygotes",
+      "4 gametes and 16 zygotes",
+      "8 gametes and 16 zygotes"
+    ],
+    "a": 1,
+    "sol": "8 x 8 = 64 zygotes."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "How many types of genotypes are formed in F2 progeny from self pollination of a dihybrid F1?",
+    "o": [
+      "9",
+      "3",
+      "6",
+      "1"
+    ],
+    "a": 0,
+    "sol": "9 genotypes in dihybrid F2."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Mendelian ratio 9:3:3:1 is due to:",
+    "o": [
+      "Law of segregation",
+      "Law of purity of gametes",
+      "Law of independent assortment",
+      "Law of unit characters"
+    ],
+    "a": 2,
+    "sol": "Law of Independent Assortment."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "When two pairs of traits are combined in a hybrid, segregation of one pair is independent of the other. This explains:",
+    "o": [
+      "Law of dominance",
+      "Law of segregation",
+      "Law of independent assortment",
+      "Postulate of paired factors"
+    ],
+    "a": 2,
+    "sol": "Law of Independent Assortment."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "TTRR x ttrr, F1 consists of tall plants with rounded seeds. How many types of gametes F1 plant would produce?",
+    "o": [
+      "One",
+      "Three",
+      "Four",
+      "Eight"
+    ],
+    "a": 2,
+    "sol": "F1 = TtRr - 4 gamete types."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "How many plants are dihybrid in F2 generation of dihybrid cross?",
+    "o": [
+      "One",
+      "Two",
+      "Four",
+      "Sixteen"
+    ],
+    "a": 2,
+    "sol": "4 out of 16 are dihybrid."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "F1 progeny of Mendelian dihybrid cross produces:",
+    "o": [
+      "Two types of pollen grains",
+      "Four genotypes of gametes",
+      "Two types of eggs",
+      "Four types of pollens only"
+    ],
+    "a": 1,
+    "sol": "F1 produces 4 gamete types."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "What is true for law of independent assortment?",
+    "o": [
+      "Applicable to all dominant alleles",
+      "Applicable to all genes on same chromosome",
+      "Not applicable to genes on same chromosome",
+      "Applicable to all recessive alleles"
+    ],
+    "a": 2,
+    "sol": "Not applicable to linked genes."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Diploid organism heterozygous for 5 loci, homozygous for 2 loci - how many gamete types?",
+    "o": [
+      "128",
+      "32",
+      "4",
+      "14"
+    ],
+    "a": 1,
+    "sol": "2^5 = 32."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Independent assortment of genes does not take place when:",
+    "o": [
+      "Genes on different chromosomes",
+      "Genes on same chromosome",
+      "Genes on non-homologous chromosome",
+      "All of the above"
+    ],
+    "a": 1,
+    "sol": "Linked genes on same chromosome."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "If Aabb x aabb, genotypic ratio of progeny:",
+    "o": [
+      "9:3:3:1",
+      "1:2:1",
+      "1:1:1:1",
+      "4:1"
+    ],
+    "a": 2,
+    "sol": "1:1:1:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Probability of homozygous plants for both dominant characters in F2 of dihybrid cross:",
+    "o": [
+      "1/16",
+      "3/16",
+      "4/16",
+      "9/16"
+    ],
+    "a": 0,
+    "sol": "AABB = 1/16."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Male heterozygous for A, B and hemizygous for h. Proportion of sperms abh:",
+    "o": [
+      "1/4",
+      "1/8",
+      "1/32",
+      "1/16"
+    ],
+    "a": 1,
+    "sol": "1/2 x 1/2 x 1/2 = 1/8."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Cross between AaBB x aaBB yields genotypic ratio:",
+    "o": [
+      "1 AaBB : 1 aaBB",
+      "1 AaBB : 3 aaBB",
+      "3 AaBB : 1 aaBB",
+      "All AaBb"
+    ],
+    "a": 0,
+    "sol": "1:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Crossing AABB & aabb, probability of AaBb in F2 generation:",
+    "o": [
+      "1/16",
+      "2/16",
+      "8/16",
+      "4/16"
+    ],
+    "a": 3,
+    "sol": "AaBb = 4/16."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Mendel self hybridised F1 (RrYy). Dominant and recessive traits of one character are segregated in:",
+    "o": [
+      "9:1 ratio",
+      "3:3 ratio",
+      "10:6 ratio",
+      "3:1 ratio"
+    ],
+    "a": 3,
+    "sol": "Each character 3:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "In F2 of Mendelian dihybrid cross (TTRR x ttrr):",
+    "o": [
+      "Tall and violet in 1:1",
+      "Parental:non-parental is 1:15",
+      "Recombinant in 1:1",
+      "More than one option is correct"
+    ],
+    "a": 3,
+    "sol": "More than one option is correct."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "RRTt x rrtt - what percent tall red fruit?",
+    "o": [
+      "All tall red",
+      "25% tall red",
+      "50% tall red",
+      "75% tall red"
+    ],
+    "a": 2,
+    "sol": "50% tall red."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "AABBcc x AaBbCc - ratio of hybrid for all three genes:",
+    "o": [
+      "1/8",
+      "1/4",
+      "1/16",
+      "1/32"
+    ],
+    "a": 0,
+    "sol": "1 x 1/2 x 1/2 x 1/2 = 1/8."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Heterozygous tall and violet flowered pea plants selfed, 512 seeds collected. Total seeds with both heterozygous traits?",
+    "o": [
+      "128",
+      "256",
+      "384",
+      "64"
+    ],
+    "a": 0,
+    "sol": "512 x 1/4 = 128."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "In dihybrid cross AABB x aabb, ratio of AABB, AAbb, aaBB, aabb in F2 generation:",
+    "o": [
+      "9:3:3:1",
+      "1:1:1:1",
+      "1:2:2:1",
+      "1:1:2:2"
+    ],
+    "a": 1,
+    "sol": "1:1:1:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "TTRr x ttrr - how many percent tall, red flowered plants?",
+    "o": [
+      "50%",
+      "75%",
+      "25%",
+      "100%"
+    ],
+    "a": 0,
+    "sol": "50% tall red."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Two hybrids Ttrr & Rrtt are crossed. Phenotypic ratio of offspring:",
+    "o": [
+      "3:1",
+      "1:1:1:1",
+      "1:1",
+      "9:3:3:1"
+    ],
+    "a": 2,
+    "sol": "1:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "How many types and what ratio gametes are produced by a dihybrid heterozygous?",
+    "o": [
+      "4 types in 9:3:3:1",
+      "2 types in 3:1",
+      "3 types in 1:2:1",
+      "4 types in 1:1:1:1"
+    ],
+    "a": 3,
+    "sol": "4 types in 1:1:1:1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Trihybrid cross between A/a B/b C/c - how many offsprings will have a/a b/b c/c?",
+    "o": [
+      "1/64",
+      "1/4",
+      "1/16",
+      "1/32"
+    ],
+    "a": 0,
+    "sol": "1/4 x 1/4 x 1/4 = 1/64."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Pure tall green pod x pure short yellow pod. How many short plants in F2 out of 16?",
+    "o": [
+      "1",
+      "3",
+      "4",
+      "9"
+    ],
+    "a": 2,
+    "sol": "4 short plants."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Mark the odd one (F2 generation of Mendelian dihybrid cross):",
+    "o": [
+      "Frequency of TtRR = 12.5%",
+      "Frequency of ttrr = 6.25%",
+      "Frequency of TTRR = 6.25%",
+      "Frequency of ttRr = 25%"
+    ],
+    "a": 3,
+    "sol": "ttRr frequency is 12.5%, not 25%."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Dihybrid cross proves the law of:",
+    "o": [
+      "Segregation",
+      "Purity of gametes",
+      "Dominance",
+      "Independent assortment"
+    ],
+    "a": 3,
+    "sol": "Law of Independent Assortment."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "AABBccDD selfed. Proportion of progeny with AABBccDD?",
+    "o": [
+      "1/4",
+      "1/16",
+      "1/64",
+      "1/256"
+    ],
+    "a": 0,
+    "sol": "Homozygous parents - all progeny same = 1."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Dihybrid plant self pollinated, 400 phenotypes, 9 types genotype. How many seeds have genotype TtRr?",
+    "o": [
+      "200",
+      "100",
+      "50",
+      "150"
+    ],
+    "a": 1,
+    "sol": "400 x 4/16 = 100."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Frequency of AabbCcDdee if parents are AabbCCddEe and AabbccDdee?",
+    "o": [
+      "0.78%",
+      "12.5%",
+      "25%",
+      "50%"
+    ],
+    "a": 1,
+    "sol": "1/16 = 6.25%; closest option = 12.5%."
+  },
+  {
+    "s": "4. Dihybrid Cross",
+    "q": "Zygotic combinations between Aa BB Cc Dd x AA bb Cc DD?",
+    "o": [
+      "32",
+      "128",
+      "64",
+      "16"
+    ],
+    "a": 2,
+    "sol": "8 x 2 = 16."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "The cross between recessive to its hybrid or its F1 plant is called:",
+    "o": [
+      "Back cross",
+      "Test cross",
+      "Monohybrid cross",
+      "Dihybrid cross"
+    ],
+    "a": 1,
+    "sol": "Test cross."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "Genotypic and phenotypic ratio of monohybrid test cross:",
+    "o": [
+      "1:1",
+      "1:2",
+      "3:1",
+      "1:2:1"
+    ],
+    "a": 0,
+    "sol": "1:1."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "A test cross is performed:",
+    "o": [
+      "By selfing F2-generation plants",
+      "By selfing F1-generation plants",
+      "To determine whether F1-plant is homozygous or heterozygous",
+      "Between homozygous dominant and homozygous recessive"
+    ],
+    "a": 2,
+    "sol": "To determine F1 genotype."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "Two crosses between the same pair of genotypes/phenotypes in which sources of gametes are reversed - is known as:",
+    "o": [
+      "Test cross",
+      "Reciprocal cross",
+      "Dihybrid cross",
+      "Reverse cross"
+    ],
+    "a": 1,
+    "sol": "Reciprocal cross."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "When F1 individual is crossed with its either parent, it is known as:",
+    "o": [
+      "Test cross",
+      "Back cross",
+      "Reciprocal cross",
+      "Monohybrid cross"
+    ],
+    "a": 1,
+    "sol": "Back cross."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "Useful process for determining whether an individual is homozygous or heterozygous:",
+    "o": [
+      "Cross-breeding",
+      "Self fertilization",
+      "Back-crossing",
+      "Test cross"
+    ],
+    "a": 3,
+    "sol": "Test cross."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "To find out different types of gametes produced by AaBb pea plant, cross with genotype:",
+    "o": [
+      "AaBb",
+      "aabb",
+      "AABB",
+      "aABB"
+    ],
+    "a": 1,
+    "sol": "Cross with aabb (test cross)."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "Which statement is correct?",
+    "o": [
+      "Each back cross is a test cross",
+      "Each test cross is a back cross",
+      "Both statements have same meaning",
+      "Reappearance of similar characters in test cross is called back cross"
+    ],
+    "a": 1,
+    "sol": "Every test cross is a back cross."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "RrTt x rrtt - ratio of red tall, red dwarf, white tall, white dwarf:",
+    "o": [
+      "9:3:3:1",
+      "15:1:0:0",
+      "9:3:4:0",
+      "4:4:4:4"
+    ],
+    "a": 3,
+    "sol": "4:4:4:4 (1:1:1:1)."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "AaBb (tall red) x aaBb (dwarf red). Percent dwarf white flowered offspring?",
+    "o": [
+      "50%",
+      "6.25%",
+      "12.5%",
+      "25%"
+    ],
+    "a": 2,
+    "sol": "1/2 x 1/4 = 1/8 = 12.5%."
+  },
+  {
+    "s": "5. Test Cross",
+    "q": "Rabbit BBSS x bbss gives F1 BbSs. F1 x F1 - percent homozygous black-short haired?",
+    "o": [
+      "50%",
+      "12.5%",
+      "6.25%",
+      "18.75%"
+    ],
+    "a": 1,
+    "sol": "BBSS = 1/16 = 6.25%; if one gene = 12.5%."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "RR x rr snapdragon gives pink F1. F1 selfed gives 1RR red, 2Rr pink, 1rr white. This is:",
+    "o": [
+      "True dominance",
+      "Incomplete dominance",
+      "Lethal gene",
+      "Independent assortment"
+    ],
+    "a": 1,
+    "sol": "Incomplete dominance."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Mirabilis jalapa - red x white gives pink F1. F2 red, pink, white ratio:",
+    "o": [
+      "1:1:2",
+      "2:1:1",
+      "1:0:1",
+      "1:2:1"
+    ],
+    "a": 3,
+    "sol": "1:2:1."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Dog flower plant - F1 phenotype:",
+    "o": [
+      "Resembles both parents",
+      "Does not resemble either parent",
+      "Resembles only one parent",
+      "Both (1) and (3)"
+    ],
+    "a": 1,
+    "sol": "Intermediate phenotype."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Homozygous red x homozygous white snapdragon - F1 flower colour:",
+    "o": [
+      "Red",
+      "White",
+      "Red and White",
+      "Pink"
+    ],
+    "a": 3,
+    "sol": "Pink."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Which cross yields red, white & pink flowers variety of dog flower?",
+    "o": [
+      "RR x Rr",
+      "Rr x RR",
+      "Rr x Rr",
+      "Rr x rr"
+    ],
+    "a": 2,
+    "sol": "Rr x Rr."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Dihybrid cross, one pair incomplete dominance - genotypic ratio:",
+    "o": [
+      "3:6:3:1:2:1",
+      "1:2:2:4:1:2:1:2:1",
+      "9:3:3:1",
+      "1:2:1"
+    ],
+    "a": 1,
+    "sol": "1:2:2:4:1:2:1:2:1."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "When phenotypic and genotypic ratios resemble in F2, it is example of:",
+    "o": [
+      "Independent assortment",
+      "Qualitative inheritance",
+      "Segregation of factors",
+      "Incomplete dominance"
+    ],
+    "a": 3,
+    "sol": "Incomplete dominance."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Mirabilis & Antirrhinum - pink hybrid (Rr) between red (RR) and white (rr) indicates:",
+    "o": [
+      "Incomplete dominance",
+      "Segregation",
+      "Dominance",
+      "Heterosis"
+    ],
+    "a": 0,
+    "sol": "Incomplete dominance."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "In incomplete dominance:",
+    "o": [
+      "Dominant trait completely expressed in F1",
+      "Phenotypic and genotypic ratios are different",
+      "Two dominant alleles needed for complete dominant trait",
+      "F1 individuals have equal traits of both parents"
+    ],
+    "a": 2,
+    "sol": "Two dominant alleles needed."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Pink flowered Antirrhinum test crossed - phenotypic ratio:",
+    "o": [
+      "1 Red : 1 White",
+      "3 Red : 1 White",
+      "2 Pink : 1 White",
+      "1 Pink : 1 White"
+    ],
+    "a": 3,
+    "sol": "Rr x rr = 1 pink : 1 white."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "In garden pea, starch is synthesized effectively in:",
+    "o": [
+      "Heterozygous round seeded",
+      "Homozygous round seeded",
+      "Wrinkled seeded",
+      "Pure and hybrid round seeded"
+    ],
+    "a": 1,
+    "sol": "Homozygous round (RR)."
+  },
+  {
+    "s": "6. Incomplete Dominance",
+    "q": "Incomplete dominance is found in:",
+    "o": [
+      "Pisum sativum",
+      "Antirrhinum majus",
+      "Both",
+      "None"
+    ],
+    "a": 1,
+    "sol": "Antirrhinum majus."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "When both alleles of a pair are fully expressed in heterozygote, they are called:",
+    "o": [
+      "Lethals",
+      "Co-dominants",
+      "Semi-dominants",
+      "Recessive allele"
+    ],
+    "a": 1,
+    "sol": "Co-dominants."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "AB blood group shows:",
+    "o": [
+      "Co-dominance",
+      "Complete dominance",
+      "Mixed inheritance",
+      "Composite inheritance"
+    ],
+    "a": 0,
+    "sol": "Co-dominance."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Which condition is true for codominance?",
+    "o": [
+      "F1 resembles either parent",
+      "F1 did not resemble either parent",
+      "F1 resembles both parents",
+      "None of these"
+    ],
+    "a": 2,
+    "sol": "F1 resembles both parents."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Correct match:",
+    "o": [
+      "F1 resembles either parent - Dominance",
+      "F1 resembles in between - Incomplete dominance",
+      "F1 resembles both parent - Co-dominance",
+      "All are correct"
+    ],
+    "a": 3,
+    "sol": "All correct."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Which is the example of co-dominance?",
+    "o": [
+      "HbA HbA, IA IB",
+      "Hbs Hbs, IA IB",
+      "HbA Hbs, IA IB",
+      "Hbs Hbs, IA IB"
+    ],
+    "a": 0,
+    "sol": "IA IB (AB blood group)."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Which condition represents co-dominant genes?",
+    "o": [
+      "A gene suppresses its alleles",
+      "Genes similar separately but different together",
+      "Allele both interact to produce trait like either parent",
+      "Alleles each producing independent effect in heterozygous condition"
+    ],
+    "a": 3,
+    "sol": "Each allele produces independent effect."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Roan cow x white bull - offspring ratio:",
+    "o": [
+      "1:2:1",
+      "3:1",
+      "1:1",
+      "All roan"
+    ],
+    "a": 2,
+    "sol": "RW x WW = 1:1."
+  },
+  {
+    "s": "7. Co-dominance",
+    "q": "Roan bull x Cow A (same genotype), Cow B (red), Cow C (white) - probability of roan offspring:",
+    "o": [
+      "2/4, 1/2, 1/2",
+      "1/4, 2/4, 1/2",
+      "1/4, 1/2, 2/4",
+      "3/4, 1/2, 1/2"
+    ],
+    "a": 0,
+    "sol": "2/4, 1/2, 1/2."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Multiple alleles are present:",
+    "o": [
+      "In different chromosomes",
+      "At different loci on chromosome",
+      "At the same locus on homologous chromosomes",
+      "At the non homologous chromosome"
+    ],
+    "a": 2,
+    "sol": "Same locus on homologous chromosomes."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "In multiple allele system a gamete possesses:",
+    "o": [
+      "Two alleles",
+      "Three alleles",
+      "One allele",
+      "Several alleles"
+    ],
+    "a": 2,
+    "sol": "One allele."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "A child's blood group is 'O'. His parents blood group cannot be:",
+    "o": [
+      "B & O",
+      "A & O",
+      "AB",
+      "A & B"
+    ],
+    "a": 2,
+    "sol": "AB parents cannot produce O child."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "In ABO blood group, allele IA and IB if present together then:",
+    "o": [
+      "Only IA expresses",
+      "Only IB expresses",
+      "Both IA and IB express",
+      "None of these"
+    ],
+    "a": 2,
+    "sol": "Both express (co-dominance)."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "A child with mother of A group and father of AB group, will not have blood group:",
+    "o": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "a": 3,
+    "sol": "Cannot be O."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "If one parent has blood group A and the other parent has B, offsprings can have:",
+    "o": [
+      "AB",
+      "O",
+      "B, O",
+      "A, B, AB, O"
+    ],
+    "a": 3,
+    "sol": "All four possible."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Man with blood group B marries female with A, first child has blood group B. Genotype of child:",
+    "o": [
+      "IAIB",
+      "IAIO",
+      "IBIO",
+      "IBIB"
+    ],
+    "a": 2,
+    "sol": "IBi."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "ABO grouping is named ABO because 'O' refers to having:",
+    "o": [
+      "No antigens A and B on RBCs",
+      "Other antigens besides A and B on RBCs",
+      "Overdominance",
+      "One antibody only - either anti-A or anti-B"
+    ],
+    "a": 0,
+    "sol": "No A and B antigens."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Three different alleles of human ABO blood types produce how many genotypes & phenotypes?",
+    "o": [
+      "4 & 6",
+      "6 & 4",
+      "6 & 6",
+      "4 & 4"
+    ],
+    "a": 1,
+    "sol": "6 genotypes, 4 phenotypes."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "What will be possible blood groups in children from parents with B and AB?",
+    "o": [
+      "A, O",
+      "A, B, AB & O",
+      "A, B, AB",
+      "B, O"
+    ],
+    "a": 2,
+    "sol": "A, B, AB (no O)."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Man of A blood group marries woman of AB blood group. Progeny indicating man is heterozygous A?",
+    "o": [
+      "AB",
+      "A",
+      "O",
+      "B"
+    ],
+    "a": 3,
+    "sol": "B indicates heterozygous A."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Father blood group A, mother B, 50% probability for AB. This indicates:",
+    "o": [
+      "Father is heterozygous",
+      "Mother is heterozygous",
+      "Either of parent is heterozygous",
+      "Mother is homozygous"
+    ],
+    "a": 2,
+    "sol": "Either parent heterozygous."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Blood grouping in humans is controlled by:",
+    "o": [
+      "4 alleles with IA dominant",
+      "3 alleles with IA and IB dominant",
+      "2 alleles with none dominant",
+      "3 alleles with IA recessive"
+    ],
+    "a": 1,
+    "sol": "3 alleles, IA and IB dominant."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Child with mother of A blood group and father of AB blood group will be:",
+    "o": [
+      "O",
+      "A",
+      "A and O",
+      "O and B"
+    ],
+    "a": 1,
+    "sol": "A (not O)."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Person with unknown blood group needs transfusion, friend offers blood without delay. Donor blood group?",
+    "o": [
+      "Type B",
+      "Type AB",
+      "Type O",
+      "Type A"
+    ],
+    "a": 2,
+    "sol": "Type O (universal donor)."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Which couple could be biological parents of baby with O+ blood type?",
+    "o": [
+      "AB- and A+",
+      "A+ and O-",
+      "O+ and AB+",
+      "B- and O-"
+    ],
+    "a": 3,
+    "sol": "B- and O-."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "Both husband and wife have blood group A. First child has O. Probability next child has A:",
+    "o": [
+      "0.5",
+      "0.75",
+      "0",
+      "0.25"
+    ],
+    "a": 1,
+    "sol": "0.75."
+  },
+  {
+    "s": "8. Multiple Alleles",
+    "q": "A gene that shows its effect on more than one character:",
+    "o": [
+      "Polygen",
+      "Pleiotropic gene",
+      "Multifactor gene",
+      "Multiple gene"
+    ],
+    "a": 1,
+    "sol": "Pleiotropic gene."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "The experimental verification of the chromosomal theory of inheritance was done by:",
+    "o": [
+      "Boveri",
+      "Sutton",
+      "T.H.Morgan",
+      "Bateson"
+    ],
+    "a": 2,
+    "sol": "T.H. Morgan."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "When a cluster of genes shows linkage behaviour, they:",
+    "o": [
+      "Do not show chromosome map",
+      "Induce cell division",
+      "Do not show independent assortment",
+      "Show recombination during meiosis"
+    ],
+    "a": 2,
+    "sol": "Do not show independent assortment."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Which shows linkage group in Cis arrangement?",
+    "o": [
+      "A B / a b",
+      "A b / a B",
+      "A b / a b",
+      "b B / a b"
+    ],
+    "a": 0,
+    "sol": "AB/ab is cis arrangement."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Generation of non-parental gene combinations is termed:",
+    "o": [
+      "Linkage",
+      "Polyloidy",
+      "Recombination",
+      "Aneuploidy"
+    ],
+    "a": 2,
+    "sol": "Recombination."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Which law would have been violated if Mendel had chosen eight characters in garden-pea?",
+    "o": [
+      "Law of dominance",
+      "Law of segregation",
+      "Law of independent assortment",
+      "Law of purity of gametes"
+    ],
+    "a": 2,
+    "sol": "Independent assortment."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "If Mendel studied 7 pairs in plant with 12 chromosomes instead of 14, then:",
+    "o": [
+      "Could not discover independent assortment",
+      "Not discovered linkage",
+      "Discovered crossing-over",
+      "Not observed dominance"
+    ],
+    "a": 0,
+    "sol": "Some genes would be linked."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Maize dihybrid test cross: Coloured-Full 45%, Coloured-Shrunken 5%, Colourless-Full 4%, Colourless-Shrunken 46%. Distance between two non-allelic genes:",
+    "o": [
+      "48 units",
+      "9 units",
+      "4 units",
+      "12 units"
+    ],
+    "a": 1,
+    "sol": "5% + 4% = 9% = 9 units."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "A and B genes are linked. Genotype of progeny in a cross between AB/ab and ab/ab?",
+    "o": [
+      "AAbb and aabb",
+      "AaBb and aabb",
+      "AABB and aabb",
+      "None"
+    ],
+    "a": 1,
+    "sol": "AaBb and aabb."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "A dihybrid plant with incomplete linkage on test cross may produce how many types of plants?",
+    "o": [
+      "2",
+      "4",
+      "8",
+      "1"
+    ],
+    "a": 1,
+    "sol": "4 types."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Which is INCORRECT for Drosophila melanogaster?",
+    "o": [
+      "Grow on simple synthetic medium",
+      "Single mating - large progeny",
+      "Life cycle about 7 weeks",
+      "Clear differentiation of sexes"
+    ],
+    "a": 2,
+    "sol": "Life cycle is ~2 weeks, not 7 weeks."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Depending upon the distance between any two genes, recombinants vary from:",
+    "o": [
+      "50-100%",
+      "0-50%",
+      "75-100%",
+      "100-150%"
+    ],
+    "a": 1,
+    "sol": "0-50%."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Cross between pure wildtype male and brown-eyed, curled winged female Drosophila. F1 female testcrossed. Wild type 200, Brown eye curled 150, Brown normal 30, Normal curled 20. Total 400. Distance between brown eye and curled wing:",
+    "o": [
+      "12.5",
+      "50",
+      "150",
+      "25"
+    ],
+    "a": 0,
+    "sol": "50/400 x 100 = 12.5 cM."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Mendelian dihybrid and dihybrid with linkage respectively related with:",
+    "o": [
+      "1 pair & 2 pairs",
+      "2 pairs & 1 pair",
+      "2 pairs & 2 pairs",
+      "1 pair & 1 pair"
+    ],
+    "a": 1,
+    "sol": "2 pairs & 1 pair."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "If distance between genes on chromosome is more, gene shows:",
+    "o": [
+      "Weak linkage",
+      "Strong linkage",
+      "Less crossing over",
+      "Both (1) & (3)"
+    ],
+    "a": 0,
+    "sol": "Weak linkage."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "There are three genes a, b, c. Crossing over a-b 20%, b-c 28%, a-c 8%. Sequence of genes:",
+    "o": [
+      "b, a, c",
+      "a, b, c",
+      "a, c, b",
+      "None"
+    ],
+    "a": 0,
+    "sol": "b-a-c."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Genes C, M, P, S linked. P-C=7, S-M=10, C-M=8, S-C=2, P-S=5. Relative positions:",
+    "o": [
+      "PSCM",
+      "SCPM",
+      "PCSM",
+      "SCMP"
+    ],
+    "a": 0,
+    "sol": "PSCM."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Linkage map of X-chromosome has 66 units, yellow body (y) and bobbed hair (b) at ends. Recombination frequency between y and b:",
+    "o": [
+      "60%",
+      ">50%",
+      "≤50%",
+      "100%"
+    ],
+    "a": 2,
+    "sol": "≤50%."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Test cross of F1 +a/+b: ++/ab=9, ab/ab=9, +b/ab=41, a+/ab=41. Distance between linked genes:",
+    "o": [
+      "82 M.",
+      "18 M. (cis)",
+      "20 M.",
+      "18 M. (trans)"
+    ],
+    "a": 1,
+    "sol": "18 M. (cis)."
+  },
+  {
+    "s": "9. Linkage",
+    "q": "Cross between homozygous (a,b) and wild type (++). 700 out of 1000 are parental type. Distance between a and b:",
+    "o": [
+      "70 map unit",
+      "35 map unit",
+      "30 map unit",
+      "15 map unit"
+    ],
+    "a": 2,
+    "sol": "300/1000 = 30% = 30 units."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "How many types of gametes will be produced by a male Drosophila with two genes (y+ and w+) on X-chromosome?",
+    "o": [
+      "2",
+      "4",
+      "1",
+      "8"
+    ],
+    "a": 0,
+    "sol": "2 types (no crossing over in males)."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Which is NOT a sex linked character?",
+    "o": [
+      "Haemophilia",
+      "Colour blindness",
+      "Hypertrichosis",
+      "Sickle cell anaemia"
+    ],
+    "a": 3,
+    "sol": "Sickle cell anaemia is autosomal."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Colour blind woman marries normal man. Nature of children:",
+    "o": [
+      "Colourblind daughter & normal sons",
+      "Colourblind sons and carrier daughters",
+      "Normal sons & carrier daughters",
+      "Normal sons & normal daughters"
+    ],
+    "a": 1,
+    "sol": "Sons colourblind, daughters carriers."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Both parents have normal vision but mother has recessive gene for colour blindness. Inheritance:",
+    "o": [
+      "Son 50%, daughter Nil",
+      "Son 100%, daughter Nil",
+      "Son Nil, daughter 100%",
+      "Son Nil, daughter Nil"
+    ],
+    "a": 0,
+    "sol": "50% sons colourblind."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Which trait shows transmission from carrier female to male progeny?",
+    "o": [
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Y-linked recessive",
+      "X-linked dominant"
+    ],
+    "a": 1,
+    "sol": "X-linked recessive."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "If a colourblind woman marries normal man, offspring will be:",
+    "o": [
+      "All colourblind",
+      "All daughters normal and all sons colourblind",
+      "All normal",
+      "All daughters colourblind and all sons normal"
+    ],
+    "a": 1,
+    "sol": "Daughters carriers, sons colourblind."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Normal woman whose father was colourblind marries colourblind man. Daughter would be:",
+    "o": [
+      "All colourblind",
+      "75% colourblind",
+      "50% colourblind",
+      "All normal"
+    ],
+    "a": 2,
+    "sol": "50% colourblind."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Normal vision woman (father colourblind) marries colourblind man. Fourth child is a boy. The boy:",
+    "o": [
+      "Must have normal vision",
+      "May be colourblind or normal",
+      "Partially colourblind",
+      "Must be colourblind"
+    ],
+    "a": 1,
+    "sol": "May be either."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Haemophilia is more common in males because:",
+    "o": [
+      "Y-linked recessive",
+      "X-linked recessive",
+      "X-linked dominant",
+      "Girls die in infancy"
+    ],
+    "a": 1,
+    "sol": "X-linked recessive."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Recessive genes on X-chromosome in humans are always:",
+    "o": [
+      "Expressed in females",
+      "Lethal",
+      "Sub-lethal",
+      "Expressed in males"
+    ],
+    "a": 3,
+    "sol": "Expressed in males."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Condition with only one allele of a pair present in diploid organism:",
+    "o": [
+      "Homozygous",
+      "Heterozygous",
+      "Hemizygous",
+      "Incomplete dominance"
+    ],
+    "a": 2,
+    "sol": "Hemizygous."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Which disorder affects blood clotting cascade protein?",
+    "o": [
+      "Thalassemia",
+      "Sickle-cell anaemia",
+      "Haemophilia",
+      "Colourblindness"
+    ],
+    "a": 2,
+    "sol": "Haemophilia."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Father normal, mother carrier for haemophilia:",
+    "o": [
+      "All female children carriers",
+      "Male child 50% chances of disease",
+      "Female child 50% active disease",
+      "All female children colourblind"
+    ],
+    "a": 1,
+    "sol": "50% sons affected."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Normal woman with colourblind son marries colourblind man. Probability of children having abnormality:",
+    "o": [
+      "50% sons + 50% daughters colourblind",
+      "All sons colourblind & daughter carrier",
+      "All daughters colourblind & sons normal",
+      "50% sons colourblind and all daughters normal"
+    ],
+    "a": 0,
+    "sol": "50% sons + 50% daughters colourblind."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Normal woman (father had colourblindness) married normal man. Chance of colour blindness in progeny:",
+    "o": [
+      "25%",
+      "50%",
+      "100%",
+      "75%"
+    ],
+    "a": 0,
+    "sol": "25%."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Colourblind man marries daughter of colourblind father:",
+    "o": [
+      "All sons colourblind",
+      "All daughters colourblind",
+      "Half sons colourblind",
+      "No daughter colourblind"
+    ],
+    "a": 1,
+    "sol": "All daughters colourblind (if daughter is carrier)."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Haemophilic female marries normal male. Ratio of offsprings regarding haemophilia:",
+    "o": [
+      "All haemophilic",
+      "All girls haemophilic",
+      "All sons haemophilic",
+      "Half daughters and half sons haemophilic"
+    ],
+    "a": 2,
+    "sol": "All sons haemophilic."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Y-linked gene for hypertrichosis. Affected man marries normal woman. Percentage of daughters with hairy ears:",
+    "o": [
+      "25%",
+      "0%",
+      "50%",
+      "100%"
+    ],
+    "a": 1,
+    "sol": "0% daughters (Y-linked)."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Ravi's grandfather's only son is haemophilic. Ravi's father-in-law also haemophilic. Probability Ravi's son haemophilic?",
+    "o": [
+      "100%",
+      "50%",
+      "25%",
+      "0%"
+    ],
+    "a": 3,
+    "sol": "0%."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Queen Victoria of England was carrier for haemophilia. Since X-linked:",
+    "o": [
+      "All sons would have disease",
+      "All daughters carriers",
+      "Her father had haemophilia",
+      "Haemophilia more in male than female descendants"
+    ],
+    "a": 3,
+    "sol": "More males affected."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Haemophilia is trait carried by mother and passed to sons. Pattern of inheritance?",
+    "o": [
+      "Autosomal chromosome",
+      "Y-chromosome (more males)",
+      "X-chromosome inherited from father or mother",
+      "X-chromosome inherited by son only if mother is carrier"
+    ],
+    "a": 3,
+    "sol": "X-linked, mother carrier."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Gene located on Y-chromosome transmitted from father to son:",
+    "o": [
+      "Supplementary gene",
+      "Complementary gene",
+      "Duplicate gene",
+      "Holandric gene"
+    ],
+    "a": 3,
+    "sol": "Holandric gene."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Colourblind man married to normal woman. Offsprings will be:",
+    "o": [
+      "All sons colourblind",
+      "All daughters colourblind",
+      "All normal",
+      "All colourblind"
+    ],
+    "a": 2,
+    "sol": "All normal (daughters carriers)."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Father colourblind, mother's father was colourblind. Expected ratio:",
+    "o": [
+      "50% daughter colourblind",
+      "All sons colourblind",
+      "All daughters colourblind",
+      "All sons normal"
+    ],
+    "a": 1,
+    "sol": "All sons colourblind."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "One of the genes present exclusively on X-chromosome in humans:",
+    "o": [
+      "Baldness",
+      "Red green colour blindness",
+      "Facial hair in males",
+      "Night blindness"
+    ],
+    "a": 1,
+    "sol": "Red-green colour blindness."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "A colourblind daughter is born when:",
+    "o": [
+      "Father colourblind, mother normal",
+      "Mother colourblind, father normal",
+      "Mother carrier, father normal",
+      "Mother carrier, father colourblind"
+    ],
+    "a": 3,
+    "sol": "Both parents carry allele."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Diseased man marries normal woman. Three daughters diseased, five sons normal. Gene of this disease:",
+    "o": [
+      "Sex linked dominant",
+      "Sex linked recessive",
+      "Sex limited character",
+      "Autosomal dominant"
+    ],
+    "a": 0,
+    "sol": "X-linked dominant."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Ratio of heterozygous, homozygous and colourblind hemizygous in offspring of colourblind husband & carrier wife:",
+    "o": [
+      "1:1:2",
+      "1:1:1",
+      "2:1:1",
+      "1:2:1"
+    ],
+    "a": 1,
+    "sol": "1:1:1."
+  },
+  {
+    "s": "10. Sex Linkage",
+    "q": "Male foetus master gene acts as biological switch. Loss causes female immature. Master gene location:",
+    "o": [
+      "Homologous part of X-chromosome",
+      "Non-homologous part of X-chromosome",
+      "All autosome",
+      "Y-chromosome"
+    ],
+    "a": 3,
+    "sol": "Y-chromosome (SRY)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In haplo-diploid sex-determination as in honey bee:",
+    "o": [
+      "Males produce sperms by meiosis",
+      "Males have father and sons",
+      "Unfertilised egg develops as male (drone) by parthenogenesis",
+      "Females mostly haploid"
+    ],
+    "a": 2,
+    "sol": "Unfertilized egg -> male."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Which chromosome set in male grasshopper?",
+    "o": [
+      "2A + XY",
+      "2A + XO",
+      "2A + YY",
+      "2A + XX"
+    ],
+    "a": 1,
+    "sol": "2A + XO."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Sex chromosome symbols for birds:",
+    "o": [
+      "2W - ZZ",
+      "XX - XY",
+      "XO - XX",
+      "ZZ - WW"
+    ],
+    "a": 0,
+    "sol": "2W-ZZ."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In which sex is determined by female individual?",
+    "o": [
+      "Human",
+      "Drosophila",
+      "Birds",
+      "Grasshopper"
+    ],
+    "a": 2,
+    "sol": "Birds (ZW female)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In male grasshoppers, two pairs of autosomes and:",
+    "o": [
+      "X only",
+      "X and Y",
+      "Y only",
+      "None"
+    ],
+    "a": 0,
+    "sol": "X only."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In ZW-ZZ type of sex determination in birds:",
+    "o": [
+      "Males heterogametic",
+      "Females heterogametic",
+      "Females homogametic",
+      "Both homogametic"
+    ],
+    "a": 1,
+    "sol": "Females heterogametic (ZW)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Haploid-diploid sex determination or arhenotoky is found in:",
+    "o": [
+      "Birds",
+      "Honey bee",
+      "Humans",
+      "Fishes"
+    ],
+    "a": 1,
+    "sol": "Honey bee."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In humans sex of offspring determined by:",
+    "o": [
+      "Sex chromosome of mother",
+      "Size of ovum",
+      "Size of sperm",
+      "Sex chromosome of father"
+    ],
+    "a": 3,
+    "sol": "Father's sperm."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Which possesses homogametic male?",
+    "o": [
+      "Plants",
+      "Man",
+      "Insect",
+      "Birds"
+    ],
+    "a": 3,
+    "sol": "Birds (ZZ male)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "ZW-ZZ type of sex determination seen in:",
+    "o": [
+      "Platypus",
+      "Snails",
+      "Cockroach",
+      "Peacock"
+    ],
+    "a": 3,
+    "sol": "Peacock (bird)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Initial clue about genetic/chromosomal sex-determination came from:",
+    "o": [
+      "Human beings",
+      "Birds",
+      "Insects",
+      "Plants"
+    ],
+    "a": 2,
+    "sol": "Insects."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Which organism female is homogametic & has one chromosome more than male?",
+    "o": [
+      "Birds",
+      "Drosophila",
+      "Chicks",
+      "Grasshopper"
+    ],
+    "a": 1,
+    "sol": "Drosophila."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Monosomic male found in:",
+    "o": [
+      "Human",
+      "Birds",
+      "Honey bee",
+      "Grasshopper"
+    ],
+    "a": 3,
+    "sol": "Grasshopper (XO male)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Individuals with homomorphic sex chromosomes produce:",
+    "o": [
+      "Only one gamete in life",
+      "One type of gametes",
+      "No gametes",
+      "Two type of gametes"
+    ],
+    "a": 1,
+    "sol": "One type of gametes."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Solving sex determination in insects, it was observed:",
+    "o": [
+      "All eggs lack sex chromosome",
+      "Some sperms bear X-chromosome",
+      "All eggs and sperms bear X",
+      "Some eggs bear X"
+    ],
+    "a": 1,
+    "sol": "Some sperms bear X."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Certain insects: some have 17 chromosomes, others 18. The 17 and 18 chromosome organisms are:",
+    "o": [
+      "Males and females",
+      "Females and males",
+      "All males",
+      "All females"
+    ],
+    "a": 0,
+    "sol": "Males (17) and females (18)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Two different types of gametes in sex chromosomes are produced by:",
+    "o": [
+      "Female fruit fly",
+      "Male butterfly",
+      "Male human and female Drosophila",
+      "Female birds"
+    ],
+    "a": 3,
+    "sol": "Female birds (ZW)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Male heterogamy found in:",
+    "o": [
+      "XO type male grasshopper",
+      "XY type male human",
+      "ZW male birds",
+      "Both (1) and (2)"
+    ],
+    "a": 3,
+    "sol": "Both (1) and (2)."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "In which sex determination both male and female have same number of chromosomes?",
+    "o": [
+      "XY type",
+      "ZO type",
+      "XO type",
+      "(1) & (3)"
+    ],
+    "a": 0,
+    "sol": "XY type."
+  },
+  {
+    "s": "11. Sex Determination",
+    "q": "Responsible for sex determination in chick:",
+    "o": [
+      "Sperm",
+      "Egg",
+      "Somatic cell",
+      "Every cell of body"
+    ],
+    "a": 1,
+    "sol": "Egg."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "A family has five girls and no son. Probability of son in 6th child:",
+    "o": [
+      "1/2",
+      "1/5",
+      "1",
+      "No chance"
+    ],
+    "a": 0,
+    "sol": "Always 1/2."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Symbol used for mating between relatives (consanguineous):",
+    "o": [
+      "Diamond with 5",
+      "Square-circle single line",
+      "Square-circle double line",
+      "Square-circle with offspring"
+    ],
+    "a": 2,
+    "sol": "Double line."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "In pedigree analysis, ⊙ symbol is used for:",
+    "o": [
+      "Heterozygous for autosomal recessive",
+      "Affected individuals",
+      "Death",
+      "Carrier for sex linked recessive"
+    ],
+    "a": 3,
+    "sol": "Carrier for sex-linked recessive."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree shows autosomal recessive inheritance. Genotype of parents?",
+    "o": [
+      "AA, aa",
+      "aa, AA",
+      "aa, Aa",
+      "Aa, Aa"
+    ],
+    "a": 3,
+    "sol": "Both Aa."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree of sickle cell anaemia - RBC of both parents:",
+    "o": [
+      "Normal",
+      "Sickle shaped",
+      "Both normal & sickle shaped",
+      "Cannot be determined"
+    ],
+    "a": 2,
+    "sol": "Both (carriers)."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "In pedigree analysis, symbol for sex unspecified:",
+    "o": [
+      "Diamond",
+      "Square",
+      "Circle",
+      "Double line"
+    ],
+    "a": 0,
+    "sol": "Diamond."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Polydactyly dominant autosomal allele (P). Possible genotypes of family members 1, 2, 3?",
+    "o": [
+      "1-PP, 2-Pp, 3-pp",
+      "1-PP, 2-PP, 3-pp",
+      "1-Pp, 2-PP, 3-Pp",
+      "1-Pp, 2-Pp, 3-pp"
+    ],
+    "a": 3,
+    "sol": "1-Pp, 2-Pp, 3-pp."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Which is INCORRECT regarding pedigree analysis?",
+    "o": [
+      "Helps understand if trait is dominant or recessive",
+      "Confirms trait is linked to one of autosomes",
+      "Helps trace inheritance of specific trait",
+      "Confirms DNA is carrier of genetic information"
+    ],
+    "a": 3,
+    "sol": "Does not confirm DNA role."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree shows trait in every generation affecting both sexes. Type of inheritance?",
+    "o": [
+      "X-linked recessive",
+      "Y-linked",
+      "Autosomal recessive",
+      "Autosomal dominant"
+    ],
+    "a": 3,
+    "sol": "Autosomal dominant."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Black guinea pig dominant over white. Possible genotype of III-1 and III-2 respectively?",
+    "o": [
+      "Bb and bb",
+      "BB and bb",
+      "BB and BB",
+      "BB or Bb and bb"
+    ],
+    "a": 0,
+    "sol": "Bb and bb."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree for autosomal recessive disease. Genetic makeup of first generation:",
+    "o": [
+      "AA, aa",
+      "Aa, Aa",
+      "Aa, aa",
+      "aa, aa"
+    ],
+    "a": 1,
+    "sol": "Aa, Aa."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree shows albinism (recessive). If person 4 is homozygous, carriers are:",
+    "o": [
+      "1, 4, 5 and 6",
+      "5 and 6",
+      "1, 2 and 3",
+      "1, 2, 5 and 6"
+    ],
+    "a": 3,
+    "sol": "1, 2, 5, 6."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Shaded symbols in pedigree indicate:",
+    "o": [
+      "Recessive",
+      "Codominant",
+      "Dominant",
+      "It can be recessive or dominant both"
+    ],
+    "a": 0,
+    "sol": "Recessive (skips generation)."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree prediction:",
+    "o": [
+      "Character is dominant and carried by X-chromosome",
+      "Character carried by Y-chromosome",
+      "Character is sex linked recessive",
+      "Character is autosomal recessive"
+    ],
+    "a": 0,
+    "sol": "X-linked dominant."
+  },
+  {
+    "s": "12. Pedigree Analysis",
+    "q": "Pedigree chart of family with five children, attached vs free earlobes. Correct conclusion?",
+    "o": [
+      "Parents homozygous recessive",
+      "Trait is Y-linked",
+      "Parents homozygous dominant",
+      "Parents are heterozygous"
+    ],
+    "a": 3,
+    "sol": "Heterozygous."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Which abnormality is due to autosomal dominant mutation?",
+    "o": [
+      "Colour blindness",
+      "Thalassemia",
+      "Myotonic dystrophy",
+      "Haemophilia"
+    ],
+    "a": 2,
+    "sol": "Myotonic dystrophy."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Which disorder seen in human female only?",
+    "o": [
+      "Turner's syndrome",
+      "Down's syndrome",
+      "Haemophilia",
+      "Klinefelter's syndrome"
+    ],
+    "a": 0,
+    "sol": "Turner's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Gynaecomastia symptom seen in:",
+    "o": [
+      "Down's syndrome",
+      "Turner's syndrome",
+      "Klinefelter's syndrome",
+      "Phenylketonuria"
+    ],
+    "a": 2,
+    "sol": "Klinefelter's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Phenylketonuria is inherited as:",
+    "o": [
+      "Autosomal recessive trait",
+      "Sex-linked dominant",
+      "X-linked recessive",
+      "Autosomal dominant"
+    ],
+    "a": 0,
+    "sol": "Autosomal recessive."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Karyotype with trisomy 21 relates to:",
+    "o": [
+      "Turner's syndrome",
+      "Down's syndrome",
+      "Myotonic dystrophy",
+      "Cystic fibrosis"
+    ],
+    "a": 1,
+    "sol": "Down's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Physical, psychomotor and mental development is retarded in:",
+    "o": [
+      "Down's syndrome",
+      "Sickle cell-anaemia",
+      "Turner's syndrome",
+      "Colour blindness"
+    ],
+    "a": 0,
+    "sol": "Down's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Correct match:",
+    "o": [
+      "Turner's syndrome - 45 + XO",
+      "Phenylketonuria - 44 + XYY",
+      "Klinefelter's syndrome - 44 + XXY",
+      "Thalassemia - 44 + YO"
+    ],
+    "a": 0,
+    "sol": "Turner's = 45+XO."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Absence or excess or abnormal arrangement of chromosomes results in:",
+    "o": [
+      "Point mutation",
+      "Chromosomal disorders",
+      "Mendelian disorders",
+      "Gene mutation"
+    ],
+    "a": 1,
+    "sol": "Chromosomal disorders."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Affected individuals are short statured in:",
+    "o": [
+      "Turner's syndrome, Phenylketonuria",
+      "Down's syndrome, Turner's syndrome",
+      "Klinefelter's syndrome, Down's syndrome",
+      "Turner's syndrome, Klinefelter's syndrome"
+    ],
+    "a": 1,
+    "sol": "Down's and Turner's."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Affected individuals possess 47 chromosomes in:",
+    "o": [
+      "Turner's syndrome",
+      "Klinefelter's syndrome",
+      "Down's syndrome",
+      "Both (2) & (3)"
+    ],
+    "a": 3,
+    "sol": "Both (2) and (3)."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Myotonic dystrophy and Thalassemia are:",
+    "o": [
+      "Chromosomal disorders",
+      "Autosomal recessive disorders",
+      "Mendelian disorders",
+      "Autosomal dominant disorders"
+    ],
+    "a": 2,
+    "sol": "Mendelian disorders."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Correct option w.r.t. monosomy:",
+    "o": [
+      "Klinefelter's syndrome",
+      "Down's syndrome",
+      "Turner's syndrome",
+      "Haemophilia"
+    ],
+    "a": 2,
+    "sol": "Turner's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "α-thalassemia is controlled by:",
+    "o": [
+      "Two closely linked genes HBA1 and HBA2",
+      "A single gene HBB",
+      "Genes present on Chr-11",
+      "Glutamic acid"
+    ],
+    "a": 0,
+    "sol": "HBA1 and HBA2."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Odd one w.r.t. syndrome from failure of segregation of homologous pair chromosomes:",
+    "o": [
+      "Klinefelter's syndrome",
+      "Down's syndrome",
+      "Turner's syndrome",
+      "Thalassemia"
+    ],
+    "a": 3,
+    "sol": "Thalassemia (Mendelian)."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Allosomic trisomy condition seen in:",
+    "o": [
+      "Turner's syndrome",
+      "Klinefelter's syndrome",
+      "Down's syndrome",
+      "Both (2) & (3)"
+    ],
+    "a": 1,
+    "sol": "Klinefelter's syndrome."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Sickle cell-anaemia arises due to:",
+    "o": [
+      "Duplication of DNA segment",
+      "Substitution in a single base of DNA",
+      "Deletion of DNA segment",
+      "Duplication in RNA base pair"
+    ],
+    "a": 1,
+    "sol": "Single base substitution."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Sickle cell anaemia induces due to:",
+    "o": [
+      "Change of Amino Acid in α-chain",
+      "Change of Amino Acid in β-chain",
+      "Change in both α and β chain",
+      "Change in either α or β chain"
+    ],
+    "a": 1,
+    "sol": "β-chain."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Condition harmful but potential saviour from mosquito borne disease:",
+    "o": [
+      "Thalassemia",
+      "Sickle cell anaemia",
+      "Pernicious anaemia",
+      "Leukemia"
+    ],
+    "a": 1,
+    "sol": "Sickle cell anaemia."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "Correct statement (sickle cell anaemia):",
+    "o": [
+      "Homozygous individuals for Hb are unaffected",
+      "Heterozygous individuals exhibit sickle-cell trait",
+      "Heterozygous individuals affected as well as carrier",
+      "Homozygous individuals show diseased phenotype"
+    ],
+    "a": 1,
+    "sol": "Heterozygous = sickle-cell trait."
+  },
+  {
+    "s": "13. Genetic Disorders",
+    "q": "In sickle cell anaemia:",
+    "o": [
+      "Mutant Hb polymerises at low O2 tension, changing RBC shape",
+      "Substitution of Glu by Val at 6th position of α-chain",
+      "Mutant Hb polymerises at high O2 tension",
+      "α-globin chain is modified"
+    ],
+    "a": 0,
+    "sol": "Polymerization at low O2 tension."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Phenotype of individual affected if modified allele produces: (a) No enzyme (b) Normal/less efficient enzyme (c) Non-functional enzyme",
+    "o": [
+      "Only (a)",
+      "(a) and (c)",
+      "(b) and (c)",
+      "Only (c)"
+    ],
+    "a": 1,
+    "sol": "(a) and (c)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Odd one w.r.t. true breeding line:",
+    "o": [
+      "Shows stable trait inheritance",
+      "Shows expression for few generations only",
+      "Undergone continuous self-pollination",
+      "Both (1) & (3)"
+    ],
+    "a": 1,
+    "sol": "Shows expression for many generations, not few."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Mendel's work remained unrecognised till 1900 because: (a) No physical proof for factors (b) Factors concept not accepted (c) Mathematical approach old (d) Communication not easy",
+    "o": [
+      "(a), (b) & (c)",
+      "(c) & (d)",
+      "(a), (b) & (d)",
+      "Only (a)"
+    ],
+    "a": 2,
+    "sol": "(a), (b) and (d)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Read statements: A. Small sample size gave credibility B. True breeding stable trait inheritance C. One member dominates over other D. Recessive trait in heterozygous E. Two alleles on homologous sites",
+    "o": [
+      "B alone is correct",
+      "B, C and E are correct",
+      "A and D are correct",
+      "A, C and E are correct"
+    ],
+    "a": 1,
+    "sol": "B, C, E."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Monohybrid cross diagram - Genotypes of tall plants in generations?",
+    "o": [
+      "(A) TT; (B) TT, Tt; (C) TT, Tt",
+      "(A) Tt; (B) Tt; (C) TT, Tt",
+      "(A) TT; (B) Tt; (C) TT, TT",
+      "(A) TT; (B) TT, Tt; (C) Tt"
+    ],
+    "a": 0,
+    "sol": "(A) TT; (B) TT, Tt; (C) TT, Tt."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Correct statement set: (a) Statistical analysis (b) Small sampling (c) Artificial pollination (d) 14 true-breeding varieties",
+    "o": [
+      "(a) and (c) only",
+      "(b), (c) and (d) only",
+      "(a), (c) and (d) only",
+      "All"
+    ],
+    "a": 2,
+    "sol": "(a), (c), (d)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Correct statement set: (a) Test cross first (b) Test cross predicts genotype (c) Dominance explains 3:1 (d) Alleles show blending (e) Factors in pairs",
+    "o": [
+      "(a) and (e) only",
+      "(b), (c) and (d) only",
+      "(a), (b) and (c) only",
+      "(a), (b), (c) and (e) only"
+    ],
+    "a": 3,
+    "sol": "(a), (b), (c), (e)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Incorrect statement/s: (a) Gene pair of contrasting traits = Allele (b) Mendelian factors discrete (c) Large sample for quantitative conclusion (d) Graphical representation by Morgan",
+    "o": [
+      "(a) and (c)",
+      "(d) only",
+      "(a), (b) and (d)",
+      "(b) and (d)"
+    ],
+    "a": 1,
+    "sol": "(d) only (Punnett square by Punnett, not Morgan)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Incorrect statement/s: (a) F1 no resemblance to parents for flower colour (b) Single gene product multiple phenotypes (c) BB round, Bb wrinkled (d) Dominance autonomous in pleiotropy",
+    "o": [
+      "(c) only",
+      "(a), (c) and (d) only",
+      "(c) and (d) only",
+      "(b) and (c) only"
+    ],
+    "a": 1,
+    "sol": "(a), (c), (d)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Incorrect statement/s: (a) De Vries, Correns, Tschermak rediscovered (b) Chromosome movement worked out by Sutton and Boveri (c) Two alleles on different loci of homologous chromosomes (d) Chromosome segregate during gamete formation",
+    "o": [
+      "(a) and (c) only",
+      "(a) only",
+      "(c) only",
+      "(a), (c) and (d)"
+    ],
+    "a": 2,
+    "sol": "(c) only (alleles at same locus, not different)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Plant of type 'H' will produce seeds with genotype identical to plants of:",
+    "o": [
+      "Type M",
+      "Type J",
+      "Type P",
+      "Type N"
+    ],
+    "a": 3,
+    "sol": "Type N."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Read statements: (1) 3:1 ratio due to segregation (2) 3:1 can't explain dominance (3) Dominance explains both parental characters in F1 (4) Dominance in dissimilar pair in F1. How many correct?",
+    "o": [
+      "Two",
+      "Three",
+      "Four",
+      "One"
+    ],
+    "a": 0,
+    "sol": "Two correct."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Violet unknown x white gives violet:white = 1:1. Read: (i) test cross (ii) unknown homozygous (iii) unknown heterozygous (iv) determine phenotype at F2 (v) test cross with recessive parent. Incorrect statements?",
+    "o": [
+      "iii, iv, v",
+      "ii, iv",
+      "i, ii, v",
+      "ii, iv, v"
+    ],
+    "a": 3,
+    "sol": "ii, iv, v."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Which statement is true?",
+    "o": [
+      "Characters segregate during gamete formation",
+      "All characters show true dominance",
+      "Characters blend in heterozygous condition",
+      "Mendelian disorders from chromosome absence/excess"
+    ],
+    "a": 0,
+    "sol": "Characters segregate during gamete formation."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Incorrect w.r.t. reciprocal cross:",
+    "o": [
+      "Know if alleles on sex chromosomes or autosomes",
+      "Two individuals with contrast genotypes involved",
+      "Know if alleles in cytoplasm or nucleus",
+      "Results unchanged for autosomal traits"
+    ],
+    "a": 2,
+    "sol": "Reciprocal cross doesn't test cytoplasm/nucleus."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Incorrect: (i) ABO controlled by gene I (ii) Gene I has 4 alleles (iii) IA and IB produce same sugar (iv) i produces different sugar (v) IA and IB incomplete dominant",
+    "o": [
+      "i, ii",
+      "v, ii",
+      "ii, iii, iv",
+      "ii, iii, iv, v"
+    ],
+    "a": 3,
+    "sol": "ii, iii, iv, v."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Match: (a) Dominance - (i) Many genes, one character (b) Co-dominance - (ii) One allele expresses (c) Pleiotropy - (iii) Both alleles express fully (d) Polygenic - (iv) Single gene, many characters",
+    "o": [
+      "a(ii), b(i), c(iv), d(iii)",
+      "a(ii), b(iii), c(iv), d(i)",
+      "a(iv), b(i), c(ii), d(iii)",
+      "a(iv), b(iii), c(i), d(ii)"
+    ],
+    "a": 1,
+    "sol": "a(ii), b(iii), c(iv), d(i)."
+  },
+  {
+    "s": "14. Revision MCQs",
+    "q": "Match: (a) ABO blood group - (i) Dihybrid cross (b) Law of segregation - (ii) Monohybrid cross (c) Independent assortment - (iii) Base pair substitution (d) Sickle cell Anaemia - (iv) Multiple alleles",
+    "o": [
+      "a(ii), b(i), c(iv), d(iii)",
+      "a(iv), b(i), c(ii), d(iii)",
+      "a(iv), b(ii), c(i), d(iii)",
+      "a(ii), b(iii), c(iv), d(i)"
+    ],
+    "a": 2,
+    "sol": "a(iv), b(ii), c(i), d(iii)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Mendel's investigation was the first time statistical analysis & mathematical logic were applied to biology. Reason: Mendel conducted hybridization experiments on garden pea for seven years & proposed laws of inheritance.",
+    "o": [
+      "Both A and R true, R correct explanation of A",
+      "Both A and R true, R not correct explanation of A",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Mendel's experiment had small sampling size. Reason: It gave lesser credibility to data.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 3,
+    "sol": "Both false (large sample, greater credibility)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: According to Mendelism, contrasting traits did not show any blending. Reason: Only one parental trait was expressed in F1; at F2, both in 1:1.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (F2 ratio 3:1)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Genes are the units of inheritance. Reason: They transfer from one generation to next and contain information required to express a particular trait.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Segregation of alleles is random process - 50% chance of gamete containing either allele. Reason: By process of mitosis, alleles of parental pair separate; only one allele transmitted to gamete.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (meiosis, not mitosis)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Punnett square is graphical representation to calculate probability of all possible genotypes of offsprings. Reason: Developed by British geneticist Reginald C. Punnett.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Factors occur in pairs in an organism. Reason: In dissimilar pair of factors, one dominates the other.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Law of dominance based on fact that both characters recovered as such in F2 generation. Reason: In a pair of factors one member always dominates the other.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion (A): Law of segregation based on fact that alleles do not show any blending. Reason (R): Factors or alleles of a pair segregate; a gamete receives only one of two factors.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Unmodified allele represents original phenotype as dominant. Reason: Dominant allele modified to recessive by only crossing over.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Starch synthesis gene in Heterozygous (Bb) produces intermediate size starch grains but round seed. Reason: Gene for starch branching enzyme (SBE) shows multiple allelism.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Incomplete dominance made it possible to distinguish heterozygous from homozygous. Reason: In incomplete dominance, F1 heterozygote had phenotype between the two parents.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Six different combinations or genotypes of human ABO blood types exist. Reason: Gene I has three alleles IA, IB and IO.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In co-dominance and incomplete dominance, genotypic & phenotypic ratios are same. Reason: In co-dominance, F1 resembles both parents.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Multiple alleles found only when population studies are made. Reason: Occasionally, a single gene product produces more than one effect.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Round seeds in pea may have large or intermediate sized starch grains. Reason: Example of pleiotropy, multiple alleles and incomplete dominance.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: On basis of Punnett square, F generation of dihybrid plant produces 16 different types of genotypes. Reason: In F generation plant, four genotypes of gametes with frequency 12.5% of total.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 3,
+    "sol": "Both false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion (A): Phenylketonuria is example of pleiotropy. Reason (R): Phenylketonuria manifests mental retardation, reduction in hair and skin pigmentation besides high phenylalanine.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Each pair of chromosome segregates independently of another pair. Reason: Each gene pair always segregates independently of another pair.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Drosophila very suitable for genetical studies. Reason: Complete life cycle in about two weeks, fixed number of offsprings.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion (A): Maximum 50% nonparental gene combinations possible during gamete formation. Reason (R): Maximum frequency of crossing over could be 100% because all four chromatids of tetrad are involved.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In grasshopper, some sperms bear X-chromosome, some do not. Reason: Grasshopper is example of XX-XY type sex determination.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (XO type)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: XO type, XY type & ZW type are examples of male heterogamety. Reason: Male always produces two types of sperms.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (ZW is female heterogamety)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Egg is responsible for sex of chicks, not sperm. Reason: Birds show female heterogamety.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In human genetics, pedigree study provides strong tool to trace inheritance of specific trait, abnormality or disease. Reason: Controlled crosses performed in pea plant are not possible in human beings.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion (A): In human, we don't just have tall or short people as two distinct alternatives but whole range of heights. Reason (R): Human skin colour is classic example of pleiotropic gene.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (polygenic)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In human beings, inheritance of particular trait is done by study of family history. Reason: Such analysis of traits in several generations is called pedigree analysis.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: X-linked recessive trait shows transmission from carrier male to female progeny. Reason: X-linked recessive trait shows non-crisscross inheritance.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 3,
+    "sol": "Both false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Sickle-cell anaemia is caused by substitution of glutamic acid by valine at 6th position of beta globin chain. Reason: Single base substitution at 6th codon of beta globin gene from GUG to GAG.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 2,
+    "sol": "A true, R false (GAG to GUG)."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In sickle cell anaemia, RBC becomes elongated sickle like from biconcave disc. Reason: Mutant Hb polymerises under low oxygen tension causing change in shape.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: In a person with AB- blood group, erythrocytes carry both A and B antigen. Reason: Alleles IA and IB producing AB blood group are codominant and both expressed.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Recessive characters are always pure. Reason: Recessive genes always express themselves in homozygous condition.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 3,
+    "sol": "Both false."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Dominance is not always autonomous feature of gene or its product. Reason: Occasionally a single gene product produces more than one effect.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Phenylketonuria is autosomal recessive trait. Affected individual lacks enzyme converting phenylalanine to tyrosine. Reason: Results in presence of high level of phenylalanine in urine.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 0,
+    "sol": "Both true, R explains A."
+  },
+  {
+    "s": "15. Assertion & Reason",
+    "q": "Assertion: Inheritance is process by which characters are passed from parent to progeny. Reason: Inheritance is basis of heredity.",
+    "o": [
+      "Both A and R true, R correct explanation",
+      "Both A and R true, R not correct explanation",
+      "A true, R false",
+      "Both A and R false"
+    ],
+    "a": 1,
+    "sol": "Both true, R not correct explanation."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Symbol and its representation in human pedigree analysis - correct? [AIPMT-2010]",
+    "o": [
+      "Unfilled square = unaffected female",
+      "Unfilled square = male affected",
+      "Unfilled square = mating between relatives",
+      "Unfilled square = unaffected male"
+    ],
+    "a": 3,
+    "sol": "Unfilled square = unaffected male."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Man blood group A marries woman B. Possible blood groups of offsprings? [AIPMT-2010]",
+    "o": [
+      "A, B and AB only",
+      "A, B, AB and O",
+      "O only",
+      "A and B only"
+    ],
+    "a": 1,
+    "sol": "All four possible."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Genotype of dominant phenotype can be determined by: [AIPMT-2010]",
+    "o": [
+      "Pedigree analysis",
+      "Back cross",
+      "Test cross",
+      "Dihybrid cross"
+    ],
+    "a": 2,
+    "sol": "Test cross."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "ABO blood groups: 3 alleles, 6 genotypes. How many phenotypes? [AIPMT-2010]",
+    "o": [
+      "Four",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "a": 0,
+    "sol": "Four phenotypes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correct statement about dihybrid cross? [AIPMT-2010]",
+    "o": [
+      "Loosely linked genes show similar recombinations as tightly linked",
+      "Tightly linked genes show very few recombinations",
+      "Tightly linked genes show higher recombinations",
+      "Genes far apart show very few recombinations"
+    ],
+    "a": 1,
+    "sol": "Tightly linked = few recombinations."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which cannot be explained by Mendel's Law of Dominance? [AIPMT-2010]",
+    "o": [
+      "Alleles do not show blending; both characters recover as such in F2",
+      "Factors occur in pairs",
+      "Discrete unit controlling character called factor",
+      "Out of pair one dominant and other recessive"
+    ],
+    "a": 0,
+    "sol": "Law of Dominance doesn't explain F2 recovery."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correctly describes manner of determining sex? [AIPMT-2011]",
+    "o": [
+      "Homozygous ZZ determines female in birds",
+      "XO type determines male in grasshopper",
+      "XO in humans (Turner's) determines female",
+      "Homozygous XX produces male in Drosophila"
+    ],
+    "a": 1,
+    "sol": "XO = male grasshopper."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Zygotic condition for normal human female child? [AIPMT-2011]",
+    "o": [
+      "One X and one Y",
+      "Two X",
+      "Only one Y",
+      "Only one X"
+    ],
+    "a": 1,
+    "sol": "Two X chromosomes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "F1 hybrid superior to both parents - phenomenon called: [AIPMT-2011]",
+    "o": [
+      "Heterosis",
+      "Transformation",
+      "Splicing",
+      "Metamorphosis"
+    ],
+    "a": 0,
+    "sol": "Heterosis."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Test cross involves crossing: [AIPMT-2011]",
+    "o": [
+      "Two genotypes with recessive trait",
+      "Two genotypes with dominant trait",
+      "Two F1 hybrids",
+      "F1 hybrid with double recessive genotype"
+    ],
+    "a": 3,
+    "sol": "F1 with double recessive."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Accident patient needs immediate transfusion. Doctor friend offers blood. Donor blood group? [AIPMT-2012]",
+    "o": [
+      "O",
+      "A",
+      "B",
+      "AB"
+    ],
+    "a": 0,
+    "sol": "O (universal donor)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Inheritance pattern shown in image - example? [AIPMT-2012]",
+    "o": [
+      "Haemophilia",
+      "Thalassemia",
+      "Phenylketonuria",
+      "Sickle cell anaemia"
+    ],
+    "a": 0,
+    "sol": "Haemophilia (X-linked recessive)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "F2 showed both genotypic and phenotypic ratios same (1:2:1). Case of: [AIPMT-2012]",
+    "o": [
+      "Monohybrid with complete dominance",
+      "Monohybrid with incomplete dominance",
+      "Co-dominance",
+      "Dihybrid cross"
+    ],
+    "a": 1,
+    "sol": "Incomplete dominance."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Test cross carried out to: [AIPMT-2012]",
+    "o": [
+      "Assess number of alleles",
+      "Determine if two species breed",
+      "Determine genotype at F2",
+      "Predict if two traits are linked"
+    ],
+    "a": 2,
+    "sol": "Determine genotype."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Normal visioned man (father colourblind) marries woman (father colourblind). First child daughter. Chance of colour-blindness? [AIPMT-2012]",
+    "o": [
+      "25%",
+      "50%",
+      "100%",
+      "Zero percent"
+    ],
+    "a": 1,
+    "sol": "50%."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "AB x AB marriage gives A:AB:B in 1:2:1. Both A and B proteins present in AB. This is: [AIPMT-2013]",
+    "o": [
+      "Complete dominance",
+      "Codominance",
+      "Incomplete dominance",
+      "Partial dominance"
+    ],
+    "a": 1,
+    "sol": "Codominance."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Mendelian idea depicted by cross where F1 resembles both parents? [AIPMT-2013]",
+    "o": [
+      "Co-dominance",
+      "Incomplete dominance",
+      "Law of dominance",
+      "Inheritance of one gene"
+    ],
+    "a": 0,
+    "sol": "Co-dominance."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Incorrect statement regarding haemophilia? [AIPMT-2013]",
+    "o": [
+      "Single protein in blood clotting affected",
+      "Sex-linked disease",
+      "Recessive disease",
+      "Dominant disease"
+    ],
+    "a": 3,
+    "sol": "It's recessive, not dominant."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Both parents carriers for thalassemia (autosomal recessive). Chance of affected child? [AIPMT-2013]",
+    "o": [
+      "100%",
+      "No chance",
+      "50%",
+      "25%"
+    ],
+    "a": 3,
+    "sol": "25%."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Man (father colourblind) marries woman (mother colourblind, normal father). Percentage of male children colour blind? [NEET-2014]",
+    "o": [
+      "25%",
+      "0%",
+      "50%",
+      "75%"
+    ],
+    "a": 2,
+    "sol": "50%."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Term 'linkage' coined by: [NEET-2015]",
+    "o": [
+      "W. Sutton",
+      "T.H. Morgan",
+      "T. Boveri",
+      "G. Mendel"
+    ],
+    "a": 1,
+    "sol": "T.H. Morgan."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "A pleiotropic gene: [NEET-2015]",
+    "o": [
+      "Controls multiple traits in individual",
+      "Expressed only in primitive plants",
+      "Evolved during Pliocene",
+      "Controls trait only with another gene"
+    ],
+    "a": 0,
+    "sol": "Controls multiple traits."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "How many pairs of contrasting characters studied by Mendel? [NEET-2015]",
+    "o": [
+      "Six",
+      "Eight",
+      "Seven",
+      "Five"
+    ],
+    "a": 2,
+    "sol": "Seven."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Mendel did NOT use: [NEET-2015]",
+    "o": [
+      "Flower position",
+      "Seed colour",
+      "Pod length",
+      "Seed shape"
+    ],
+    "a": 2,
+    "sol": "Pod length."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Alleles are: [NEET-2015]",
+    "o": [
+      "True breeding homozygotes",
+      "Different molecular forms of gene",
+      "Heterozygotes",
+      "Different phenotype"
+    ],
+    "a": 1,
+    "sol": "Different molecular forms of gene."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "A gene showing codominance has: [NEET-2015]",
+    "o": [
+      "Both alleles independently expressed in heterozygote",
+      "One allele dominant on other",
+      "Alleles tightly linked on same chromosome",
+      "Alleles recessive to each other"
+    ],
+    "a": 0,
+    "sol": "Both alleles independently expressed."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Most common mechanism of genetic variation in sexually reproducing organisms? [NEET-2015]",
+    "o": [
+      "Chromosomal aberrations",
+      "Genetic drift",
+      "Recombination",
+      "Transduction"
+    ],
+    "a": 2,
+    "sol": "Recombination."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Colourblind man marries woman with normal sight (no family history). Probability of grandson (son's son) colourblind? [NEET-2015]",
+    "o": [
+      "0.25",
+      "0.5",
+      "1",
+      "Nil"
+    ],
+    "a": 3,
+    "sol": "Nil."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Multiple alleles are present: [NEET-2015]",
+    "o": [
+      "At different loci on same chromosome",
+      "At same locus of chromosome",
+      "On non-sister chromatids",
+      "On different chromosomes"
+    ],
+    "a": 1,
+    "sol": "Same locus."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "In human pedigree, filled symbols affected. Type of pedigree? [NEET-2015]",
+    "o": [
+      "X-linked dominant",
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Autosomal recessive"
+    ],
+    "a": 3,
+    "sol": "Autosomal recessive."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Match: (a) Dominance (i) Many genes, one character (b) Codominance (ii) One allele expresses (c) Pleiotropy (iii) Both alleles express fully (d) Polygenic (iv) Single gene, many characters [NEET-2016]",
+    "o": [
+      "a(ii), b(i), c(iv), d(iii)",
+      "a(ii), b(iii), c(iv), d(i)",
+      "a(iv), b(i), c(ii), d(iii)",
+      "a(iv), b(iii), c(i), d(ii)"
+    ],
+    "a": 1,
+    "sol": "a(ii), b(iii), c(iv), d(i)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Colour-blind man marries homozygous normal vision woman. Probability son colour-blind? [NEET-2016]",
+    "o": [
+      "0.5",
+      "0.75",
+      "1",
+      "0"
+    ],
+    "a": 3,
+    "sol": "0."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Most appropriate description of haemophilia? [NEET-2016]",
+    "o": [
+      "Recessive gene disorder",
+      "X-linked recessive gene disorder",
+      "Chromosomal disorder",
+      "Dominant gene disorder"
+    ],
+    "a": 1,
+    "sol": "X-linked recessive."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correct statements: (a) Haemophilia sex-linked recessive (b) Down's syndrome aneuploidy (c) Phenylketonuria autosomal recessive (d) Sickle cell anaemia X-linked recessive [NEET-2016]",
+    "o": [
+      "(a) and (d)",
+      "(b) and (d)",
+      "(a), (c) and (d)",
+      "(a), (b) and (c)"
+    ],
+    "a": 3,
+    "sol": "(a), (b), (c)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Tall true breeding x dwarf true breeding. F1 selfed - resulting genotypes ratio? [NEET-2016]",
+    "o": [
+      "1:2:1 Tall homo : Tall hetero : Dwarf",
+      "1:2:1 Tall hetero : Tall homo : Dwarf",
+      "3:1 Tall : Dwarf",
+      "3:1 Dwarf : Tall"
+    ],
+    "a": 0,
+    "sol": "1:2:1."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Test cross F1 dihybrid - more parental than recombinant. This indicates: [NEET-2016]",
+    "o": [
+      "Two genes on different chromosomes",
+      "Chromosomes failed to separate",
+      "Two genes linked on same chromosome",
+      "Both characters controlled by more than one gene"
+    ],
+    "a": 2,
+    "sol": "Linked genes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "True breeding plant is: [NEET-2016]",
+    "o": [
+      "Produced by cross-pollination",
+      "Near homozygous, produces offspring of own kind",
+      "Always homozygous recessive",
+      "One able to breed on its own"
+    ],
+    "a": 1,
+    "sol": "Near homozygous."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Period for Mendel's hybridization experiments? [NEET-2017]",
+    "o": [
+      "1856-1863",
+      "1840-1850",
+      "1857-1869",
+      "1870-1877"
+    ],
+    "a": 0,
+    "sol": "1856-1863."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which character was NOT considered by Mendel? [NEET-2017]",
+    "o": [
+      "Stem-Tall or Dwarf",
+      "Trichomes-Glandular or non-glandular",
+      "Seed-Green or Yellow",
+      "Pod-Inflated or Constricted"
+    ],
+    "a": 1,
+    "sol": "Trichomes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Husband IAIB, wife IAi. How many different genotypes and phenotypes? [NEET-2017]",
+    "o": [
+      "3 genotypes, 3 phenotypes",
+      "3 genotypes, 4 phenotypes",
+      "4 genotypes, 3 phenotypes",
+      "4 genotypes, 4 phenotypes"
+    ],
+    "a": 2,
+    "sol": "4 genotypes, 3 phenotypes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Thalassemia and sickle cell anaemia - correct statement? [NEET-2017]",
+    "o": [
+      "Both qualitative defect",
+      "Both quantitative defect",
+      "Thalassemia = less synthesis of globin",
+      "Sickle cell = quantitative problem"
+    ],
+    "a": 2,
+    "sol": "Thalassemia is quantitative (less synthesis)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Disease caused by autosomal primary non-disjunction? [NEET-2017]",
+    "o": [
+      "Down's Syndrome",
+      "Klinefelter's Syndrome",
+      "Turner's Syndrome",
+      "Sickle Cell Anemia"
+    ],
+    "a": 0,
+    "sol": "Down's syndrome."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which pair is wrongly matched? [NEET-2018]",
+    "o": [
+      "Starch synthesis in pea - Multiple alleles",
+      "ABO blood grouping - Co-dominance",
+      "XO type sex determination - Grasshopper",
+      "T.H. Morgan - Linkage"
+    ],
+    "a": 0,
+    "sol": "Starch synthesis is not multiple alleles."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correct match: [NEET-2018]",
+    "o": [
+      "Ribozyme - Nucleic acid",
+      "F1 x Recessive parent - Dihybrid cross",
+      "T.H. Morgan - Transduction",
+      "G. Mendel - Transformation"
+    ],
+    "a": 0,
+    "sol": "Ribozyme = nucleic acid."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Woman has X-linked condition on one X. This chromosome can be inherited by: [NEET-2018]",
+    "o": [
+      "Only daughters",
+      "Only sons",
+      "Only grandchildren",
+      "Both sons and daughters"
+    ],
+    "a": 3,
+    "sol": "Both sons and daughters."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which characteristics represent inheritance of blood groups in humans? a. Dominance b. Co-dominance c. Multiple allele d. Incomplete dominance e. Polygenic [NEET-2018]",
+    "o": [
+      "b, c and e",
+      "a, b and c",
+      "b, d and e",
+      "a, c and e"
+    ],
+    "a": 1,
+    "sol": "a, b, c."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Genetic disorder with masculine development, gynaecomastia, sterile? [NEET-2019]",
+    "o": [
+      "Edward syndrome",
+      "Down's syndrome",
+      "Turner's syndrome",
+      "Klinefelter's syndrome"
+    ],
+    "a": 3,
+    "sol": "Klinefelter's syndrome."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Frequency of recombination between gene pairs used as measure of distance - explained by: [NEET-2019]",
+    "o": [
+      "Alfred Sturtevant",
+      "Sutton Boveri",
+      "T.H. Morgan",
+      "Gregor J. Mendel"
+    ],
+    "a": 0,
+    "sol": "Alfred Sturtevant."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "What is map unit (centimorgan) in genetic maps? [NEET-2019]",
+    "o": [
+      "Distance representing 1% cross over",
+      "Distance representing 50% cross over",
+      "Distance representing 10% cross over",
+      "Distance representing 100% cross over"
+    ],
+    "a": 0,
+    "sol": "1% crossover = 1 map unit."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which muscular disorder is inherited? [NEET-2019]",
+    "o": [
+      "Myasthenia gravis",
+      "Botulism",
+      "Tetany",
+      "Muscular dystrophy"
+    ],
+    "a": 3,
+    "sol": "Muscular dystrophy."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Select incorrect statement. [NEET-2019]",
+    "o": [
+      "In domesticated fowls, sex depends on type of sperm not egg",
+      "Human males have one sex chromosome much shorter",
+      "Male fruit fly is heterogametic",
+      "In male grasshoppers, 50% sperms have no sex-chromosome"
+    ],
+    "a": 0,
+    "sol": "In fowls, egg determines sex."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Antirrhinum red x white gives pink F1. Pink selfed gives white, red, pink in F2. Incorrect statement? [NEET-2019]",
+    "o": [
+      "F2 ratio 1/4 Red : 2/4 Pink : 1/4 white",
+      "Law of segregation does not apply",
+      "Experiment does not follow principle of Dominance",
+      "Pink in F1 is due to incomplete dominance"
+    ],
+    "a": 1,
+    "sol": "Law of segregation applies."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Experimental verification of chromosomal theory of inheritance done by: [NEET-2020]",
+    "o": [
+      "Sutton",
+      "Boveri",
+      "Morgan",
+      "Mendel"
+    ],
+    "a": 2,
+    "sol": "Morgan."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correct match: [NEET-2020]",
+    "o": [
+      "Phenylketonuria - Autosomal dominant",
+      "Sickle cell anaemia - Autosomal recessive, chromosome-11",
+      "Thalassemia - X linked",
+      "Haemophilia - Y linked"
+    ],
+    "a": 1,
+    "sol": "Sickle cell = autosomal recessive."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Wrong statement about gene 'I' controlling ABO blood groups? [NEET-2020]",
+    "o": [
+      "Person has only two of three alleles",
+      "IA and IB together express same type of sugar",
+      "Allele 'i' produces no sugar",
+      "Gene I has three alleles"
+    ],
+    "a": 1,
+    "sol": "IA and IB produce different sugars."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "How many true breeding pea varieties did Mendel select as pairs? [NEET-2020]",
+    "o": [
+      "2",
+      "14",
+      "8",
+      "4"
+    ],
+    "a": 1,
+    "sol": "14."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Diagram to understand gametes, zygotes, F1, F2 called: [NEET-2021]",
+    "o": [
+      "Net square",
+      "Bullet square",
+      "Punch square",
+      "Punnett square"
+    ],
+    "a": 3,
+    "sol": "Punnett square."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "AB blood group = Universal recipients because: [NEET-2021]",
+    "o": [
+      "Absence of anti-A and anti-B in plasma",
+      "Absence of antigens A and B on RBCs",
+      "Absence of antigens A and B in plasma",
+      "Presence of anti-A and anti-B on RBCs"
+    ],
+    "a": 0,
+    "sol": "No anti-A/anti-B antibodies."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Both parents heterozygous for sickle cell anaemia - percentage of diseased progeny? [NEET-2021]",
+    "o": [
+      "100%",
+      "50%",
+      "75%",
+      "25%"
+    ],
+    "a": 3,
+    "sol": "25%."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Recombination frequencies: a-c 5%, b-c 15%, b-d 9%, a-b 20%, c-d 24%, a-d 29%. Sequence of genes? [NEET-2022]",
+    "o": [
+      "d, b, a, c",
+      "a, b, c, d",
+      "a, c, b, d",
+      "a, d, b, c"
+    ],
+    "a": 2,
+    "sol": "a, c, b, d."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "XO type of sex determination found in: [NEET-2022]",
+    "o": [
+      "Birds",
+      "Grasshoppers",
+      "Monkeys",
+      "Drosophila"
+    ],
+    "a": 1,
+    "sol": "Grasshoppers."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which occurs due to autosome linked dominant trait? [NEET-2022]",
+    "o": [
+      "Myotonic dystrophy",
+      "Haemophilia",
+      "Thalassemia",
+      "Sickle cell anaemia"
+    ],
+    "a": 0,
+    "sol": "Myotonic dystrophy."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Statement I: Mendel studied 7 contrasting traits. Statement II: 7 characters: seed shape/colour, flower colour, pod shape/colour, flower position, stem height. [NEET-2022]",
+    "o": [
+      "Both incorrect",
+      "I correct, II incorrect",
+      "I incorrect, II correct",
+      "Both correct"
+    ],
+    "a": 3,
+    "sol": "Both correct."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Colour blind female marries man (mother also colour blind). Chances of progeny having colour blindness? [NEET-2022]",
+    "o": [
+      "50%",
+      "75%",
+      "100%",
+      "25%"
+    ],
+    "a": 2,
+    "sol": "100%."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Assertion (A): Mendel's law of independent assortment doesn't hold for genes closely located. Reason (R): Closely located genes assort independently. [NEET-2022]",
+    "o": [
+      "Both correct, R not correct explanation",
+      "A correct, R not correct",
+      "A not correct, R correct",
+      "Both correct, R correct explanation"
+    ],
+    "a": 1,
+    "sol": "A correct, R not correct."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Frequency of recombination as measure of distance - first used by: [NEET-2023]",
+    "o": [
+      "Sutton and Boveri",
+      "Alfred Sturtevant",
+      "Henking",
+      "Thomas Hunt Morgan"
+    ],
+    "a": 1,
+    "sol": "Alfred Sturtevant."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Phenomenon of pleiotropism refers to: [NEET-2023]",
+    "o": [
+      "Presence of two alleles controlling single trait",
+      "A single gene affecting multiple phenotypic expression",
+      "More than two genes affecting single character",
+      "Several alleles of single gene controlling single crossover"
+    ],
+    "a": 1,
+    "sol": "Single gene, multiple phenotypes."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Correct about Klinefelter's Syndrome? A. First described by Langdon Down B. Masculine with feminine development C. Short statured D. Physical/psychomotor/mental development retarded E. Sterile [NEET-2023]",
+    "o": [
+      "C and D only",
+      "B and E only",
+      "A and E only",
+      "A and B only"
+    ],
+    "a": 1,
+    "sol": "B and E."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Symbol representing mating between relatives in pedigree? [NEET-2023]",
+    "o": [
+      "Unfilled square-circle with double line",
+      "Unfilled square-circle with single line and offspring",
+      "Square, circle, diamond",
+      "Unfilled square-circle with single line"
+    ],
+    "a": 0,
+    "sol": "Double line."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Broad palm with single palm crease seen in: [NEET-2023]",
+    "o": [
+      "Turner's syndrome",
+      "Klinefelter's syndrome",
+      "Thalassemia",
+      "Down's syndrome"
+    ],
+    "a": 3,
+    "sol": "Down's syndrome."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Which can be explained by Mendel's Law of Dominance? (A) One of pair dominant, other recessive (B) Alleles no blending, both characters in F2 (C) Factors in pairs (D) Discrete unit called factor (E) Only one parental character in monohybrid F1 [NEET-2024]",
+    "o": [
+      "B, C and D only",
+      "A, B, C, D and E",
+      "A, B and C only",
+      "A, C, D and E only"
+    ],
+    "a": 3,
+    "sol": "A, C, D, E."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Pink flowered Snapdragon x red flowered. Phenotypes in progeny? [NEET-2024]",
+    "o": [
+      "Only pink",
+      "Red, Pink and white",
+      "Only red",
+      "Red and pink"
+    ],
+    "a": 3,
+    "sol": "Red and pink."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Black seed (BB/Bb) dominant over white (bb). To find genotype, cross with: [NEET-2024]",
+    "o": [
+      "Bb",
+      "BB/Bb",
+      "BB",
+      "bb"
+    ],
+    "a": 3,
+    "sol": "bb (test cross)."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Match: (A) Two+ alternative forms of gene (B) Cross F1 with homozygous recessive (C) Cross F1 with any parent (D) Number of chromosome sets. (I) Back cross (II) Ploidy (III) Allele (IV) Test Cross [NEET-2024]",
+    "o": [
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-III, C-II, D-I",
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-I, C-III, D-IV"
+    ],
+    "a": 0,
+    "sol": "A-III, B-IV, C-I, D-II."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Match: (A) Down's (B) α-Thalassemia (C) β-Thalassemia (D) Klinefelter's. (I) 11th (II) X (III) 21st (IV) 16th chromosome [NEET-2024]",
+    "o": [
+      "A-III, B-IV, C-I, D-II",
+      "A-IV, B-I, C-II, D-III",
+      "A-I, B-II, C-III, D-IV",
+      "A-III, B-IV, C-I, D-II"
+    ],
+    "a": 0,
+    "sol": "A-III, B-IV, C-I, D-II."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Father B+, mother A+, child O+. Possible genotypes? A. IBi/IAi/ii B. IBIB/IAIA/ii C. IAiB/iiA/i D. IAi/IBi/IAi E. iBi/iiA/IB [NEET-2024]",
+    "o": [
+      "C & B only",
+      "D & E only",
+      "A only",
+      "B only"
+    ],
+    "a": 0,
+    "sol": "C & B only."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Statement I: Many alleles of single gene - polygenic inheritance. Statement II: In polygenic inheritance, effect of each dominant allele is additive. [NEET-2024]",
+    "o": [
+      "I true, II false",
+      "I false, II true",
+      "Both true",
+      "Both false"
+    ],
+    "a": 1,
+    "sol": "I false, II true."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Match: (A) Incomplete dominance (B) Co-dominance (C) Pleiotropy (D) Polygenic. (I) Blood groups (II) Flower colour Antirrhinum (III) Skin colour (IV) Phenylketonuria [NEET-2024]",
+    "o": [
+      "A-III, B-IV, C-II, D-I",
+      "A-II, B-I, C-IV, D-III",
+      "A-II, B-III, C-I, D-IV",
+      "A-IV, B-I, C-III, D-II"
+    ],
+    "a": 1,
+    "sol": "A-II, B-I, C-IV, D-III."
+  },
+  {
+    "s": "16. NEET Previous Year",
+    "q": "Statement I: Failure of chromatid segregation causing gain/loss of whole chromosome set = aneuploidy. Statement II: Failure of cytokinesis after anaphase causing gain/loss of chromosome = polyploidy. [NEET-2024]",
+    "o": [
+      "I true, II false",
+      "I false, II true",
+      "Both true",
+      "Both false"
+    ],
+    "a": 3,
+    "sol": "Both false."
+  }
+]

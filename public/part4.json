@@ -1,0 +1,22 @@
+[
+{"s":"6. Incomplete Dominance","q":"RR x rr snapdragon gives pink F1. F1 selfed gives 1RR red, 2Rr pink, 1rr white. This is:","o":["True dominance","Incomplete dominance","Lethal gene","Independent assortment"],"a":1,"sol":"Incomplete dominance."},
+{"s":"6. Incomplete Dominance","q":"Mirabilis jalapa - red x white gives pink F1. F2 red, pink, white ratio:","o":["1:1:2","2:1:1","1:0:1","1:2:1"],"a":3,"sol":"1:2:1."},
+{"s":"6. Incomplete Dominance","q":"Dog flower plant - F1 phenotype:","o":["Resembles both parents","Does not resemble either parent","Resembles only one parent","Both (1) and (3)"],"a":1,"sol":"Intermediate phenotype."},
+{"s":"6. Incomplete Dominance","q":"Homozygous red x homozygous white snapdragon - F1 flower colour:","o":["Red","White","Red and White","Pink"],"a":3,"sol":"Pink."},
+{"s":"6. Incomplete Dominance","q":"Which cross yields red, white & pink flowers variety of dog flower?","o":["RR x Rr","Rr x RR","Rr x Rr","Rr x rr"],"a":2,"sol":"Rr x Rr."},
+{"s":"6. Incomplete Dominance","q":"Dihybrid cross, one pair incomplete dominance - genotypic ratio:","o":["3:6:3:1:2:1","1:2:2:4:1:2:1:2:1","9:3:3:1","1:2:1"],"a":1,"sol":"1:2:2:4:1:2:1:2:1."},
+{"s":"6. Incomplete Dominance","q":"When phenotypic and genotypic ratios resemble in F2, it is example of:","o":["Independent assortment","Qualitative inheritance","Segregation of factors","Incomplete dominance"],"a":3,"sol":"Incomplete dominance."},
+{"s":"6. Incomplete Dominance","q":"Mirabilis & Antirrhinum - pink hybrid (Rr) between red (RR) and white (rr) indicates:","o":["Incomplete dominance","Segregation","Dominance","Heterosis"],"a":0,"sol":"Incomplete dominance."},
+{"s":"6. Incomplete Dominance","q":"In incomplete dominance:","o":["Dominant trait completely expressed in F1","Phenotypic and genotypic ratios are different","Two dominant alleles needed for complete dominant trait","F1 individuals have equal traits of both parents"],"a":2,"sol":"Two dominant alleles needed."},
+{"s":"6. Incomplete Dominance","q":"Pink flowered Antirrhinum test crossed - phenotypic ratio:","o":["1 Red : 1 White","3 Red : 1 White","2 Pink : 1 White","1 Pink : 1 White"],"a":3,"sol":"Rr x rr = 1 pink : 1 white."},
+{"s":"6. Incomplete Dominance","q":"In garden pea, starch is synthesized effectively in:","o":["Heterozygous round seeded","Homozygous round seeded","Wrinkled seeded","Pure and hybrid round seeded"],"a":1,"sol":"Homozygous round (RR)."},
+{"s":"6. Incomplete Dominance","q":"Incomplete dominance is found in:","o":["Pisum sativum","Antirrhinum majus","Both","None"],"a":1,"sol":"Antirrhinum majus."},
+{"s":"7. Co-dominance","q":"When both alleles of a pair are fully expressed in heterozygote, they are called:","o":["Lethals","Co-dominants","Semi-dominants","Recessive allele"],"a":1,"sol":"Co-dominants."},
+{"s":"7. Co-dominance","q":"AB blood group shows:","o":["Co-dominance","Complete dominance","Mixed inheritance","Composite inheritance"],"a":0,"sol":"Co-dominance."},
+{"s":"7. Co-dominance","q":"Which condition is true for codominance?","o":["F1 resembles either parent","F1 did not resemble either parent","F1 resembles both parents","None of these"],"a":2,"sol":"F1 resembles both parents."},
+{"s":"7. Co-dominance","q":"Correct match:","o":["F1 resembles either parent - Dominance","F1 resembles in between - Incomplete dominance","F1 resembles both parent - Co-dominance","All are correct"],"a":3,"sol":"All correct."},
+{"s":"7. Co-dominance","q":"Which is the example of co-dominance?","o":["HbA HbA, IA IB","Hbs Hbs, IA IB","HbA Hbs, IA IB","Hbs Hbs, IA IB"],"a":0,"sol":"IA IB (AB blood group)."},
+{"s":"7. Co-dominance","q":"Which condition represents co-dominant genes?","o":["A gene suppresses its alleles","Genes similar separately but different together","Allele both interact to produce trait like either parent","Alleles each producing independent effect in heterozygous condition"],"a":3,"sol":"Each allele produces independent effect."},
+{"s":"7. Co-dominance","q":"Roan cow x white bull - offspring ratio:","o":["1:2:1","3:1","1:1","All roan"],"a":2,"sol":"RW x WW = 1:1."},
+{"s":"7. Co-dominance","q":"Roan bull x Cow A (same genotype), Cow B (red), Cow C (white) - probability of roan offspring:","o":["2/4, 1/2, 1/2","1/4, 2/4, 1/2","1/4, 1/2, 2/4","3/4, 1/2, 1/2"],"a":0,"sol":"2/4, 1/2, 1/2."}
+]
